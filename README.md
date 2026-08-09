@@ -16,7 +16,7 @@ En tant que consultant, l'adaptation continue aux nouvelles solutions est primor
 
 ---
 
-## 📁 Mes Projets Phares
+## 📁 Mes Projets
 
 Cette section regroupe les projets menés illustrant un spectre complet de compétences : structuration SQL, nettoyage de données, modélisation BI, intégration d'IA, et respect des normes RGPD.
 
