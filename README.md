@@ -11,7 +11,7 @@ En tant que consultant, l'adaptation continue aux nouvelles solutions est primor
 * **Langages de programmation :** SQL, Python (Pandas).
 * **Business Intelligence & Dataviz :** Microsoft Power BI (Power Query / DAX), Tableau Software, Looker Studio.
 * **Machine Learning & IA :** Clustering K-Means (Modèles non-supervisés), One-Hot Encoding, intégration NLP.
-* **Gouvernance & Stratégie :** Conformité RGPD, désidentification de données, matrice PESTEL, modélisation en étoile.
+* **Gouvernance & Stratégie :** Conformité RGPD, désidentification de données, matrice PESTEL et SWAT, modélisation en étoile.
 
 ---
 
