@@ -1,0 +1,1159 @@
+﻿id_anonyme;sexe;type_vehicule;usage_vehicule;age_vehicule;formule;mois_demande;etat_dossier;tranche_age;tranche_revenus;enfants;anciennete_demande;tranche_tarifs
+1;F;Sports Car;Commercial;7.0;dev_integral;février;complet;25-40 ans;60k€+;Oui;>90 jours;Confort
+2;F;Minivan;Private;1.0;dev_express;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Standard
+3;F;Pickup;Private;4.0;dev_express;janvier;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+4;F;z_SUV;Private;5.0;dev_integral;avril;complet;<25 ans;0-20k€;Non;30-59 jours;Confort
+5;M;Panel Truck;Commercial;12.0;dev_vip;mars;complet;>40 ans;Non renseigné;Non;60–89 jours;Premium
+6;F;z_SUV;Private;15.0;dev_premium;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Premium
+7;F;Minivan;Commercial;9.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+8;M;z_SUV;Private;10.0;dev_premium;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Confort
+9;M;Minivan;Private;14.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+10;F;Panel Truck;Commercial;10.0;dev_integral;mars;complet;>40 ans;Non renseigné;Non;60–89 jours;Confort
+11;F;Minivan;Private;10.0;dev_express;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+12;M;z_SUV;Private;1.0;dev_premium;janvier;complet;<25 ans;20-40k€;Oui;>90 jours;Confort
+13;F;z_SUV;Private;18.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+14;M;Van;Commercial;6.0;dev_integral;mai;complet;<25 ans;0-20k€;Non;<30 jours;Confort
+15;M;Minivan;Private;1.0;dev_integral;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Confort
+16;M;Minivan;Private;13.0;dev_express;mai;complet;>40 ans;40-60k€;Non;<30 jours;Standard
+17;F;z_SUV;Private;15.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+18;F;Van;Commercial;8.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+19;F;Minivan;Private;11.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+20;F;z_SUV;Private;10.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+21;M;Minivan;Private;16.0;dev_express;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Standard
+22;M;Minivan;Private;;dev_premium;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Confort
+23;F;Van;Commercial;7.0;dev_premium;mai;complet;<25 ans;Non renseigné;Non;<30 jours;Confort
+24;F;Sports Car;Commercial;1.0;dev_premium;février;complet;>40 ans;40-60k€;Oui;>90 jours;Premium
+25;M;Pickup;Commercial;1.0;dev_express;avril;complet;<25 ans;20-40k€;Non;30-59 jours;Standard
+26;M;Minivan;Private;;dev_express;avril;complet;>40 ans;Non renseigné;Non;30-59 jours;Standard
+27;F;Sports Car;Private;1.0;dev_integral;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Standard
+28;F;z_SUV;Private;;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+29;F;z_SUV;Private;1.0;dev_vip;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Premium
+30;F;z_SUV;Private;17.0;dev_premium;février;complet;<25 ans;60k€+;Non;>90 jours;Confort
+31;F;z_SUV;Private;1.0;dev_express;janvier;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+32;M;Minivan;Commercial;5.0;dev_integral;avril;complet;25-40 ans;20-40k€;Oui;30-59 jours;Confort
+33;F;z_SUV;Private;9.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+34;M;z_SUV;Private;6.0;dev_premium;février;complet;<25 ans;20-40k€;Non;>90 jours;Premium
+35;M;Sports Car;Private;12.0;dev_express;février;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+36;F;z_SUV;Private;9.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+37;F;Sports Car;Commercial;15.0;dev_express;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+38;F;z_SUV;Private;14.0;dev_integral;février;complet;<25 ans;60k€+;Oui;>90 jours;Standard
+39;F;Minivan;Private;15.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+40;M;z_SUV;Private;11.0;dev_premium;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Premium
+41;F;Sports Car;Private;10.0;dev_express;mai;complet;<25 ans;Non renseigné;Oui;<30 jours;Standard
+42;F;z_SUV;Private;8.0;dev_express;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Standard
+43;M;Pickup;Commercial;10.0;dev_express;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Standard
+44;F;Pickup;Private;;dev_premium;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Premium
+45;M;z_SUV;Private;13.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+46;F;z_SUV;Private;15.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+47;M;z_SUV;Private;1.0;dev_express;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Standard
+48;F;Panel Truck;Commercial;13.0;dev_integral;février;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+49;M;Van;Commercial;7.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+50;F;Van;Private;1.0;dev_integral;avril;complet;25-40 ans;40-60k€;Oui;30-59 jours;Standard
+51;F;Pickup;Commercial;1.0;dev_integral;mars;complet;25-40 ans;20-40k€;Non;60–89 jours;Confort
+52;F;Minivan;Private;5.0;dev_express;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Standard
+53;M;Minivan;Private;7.0;dev_express;mai;complet;<25 ans;60k€+;Non;<30 jours;Standard
+54;F;Sports Car;Private;19.0;dev_express;mai;complet;>40 ans;40-60k€;Non;<30 jours;Standard
+55;F;Minivan;Commercial;8.0;dev_express;avril;complet;<25 ans;60k€+;Non;30-59 jours;Standard
+56;M;Van;Private;13.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+57;F;Van;Commercial;9.0;dev_integral;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Standard
+58;M;z_SUV;Private;12.0;dev_express;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+59;F;Van;Private;1.0;dev_express;janvier;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+60;F;Sports Car;Private;7.0;dev_express;avril;complet;25-40 ans;20-40k€;Oui;30-59 jours;Standard
+61;F;Minivan;Private;16.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+62;F;Pickup;Private;8.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+63;F;Van;Commercial;5.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+64;F;Sports Car;Private;1.0;dev_express;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+65;F;z_SUV;Private;6.0;dev_integral;avril;complet;<25 ans;0-20k€;Non;30-59 jours;Standard
+66;M;z_SUV;Private;1.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+67;M;Pickup;Private;7.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+68;M;Minivan;Private;5.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+69;M;z_SUV;Private;13.0;dev_express;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Standard
+70;F;Pickup;Commercial;3.0;dev_integral;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+71;F;z_SUV;Private;9.0;dev_integral;janvier;complet;<25 ans;60k€+;Non;>90 jours;Confort
+72;M;z_SUV;Private;12.0;dev_express;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+73;M;Minivan;Private;9.0;dev_integral;avril;complet;<25 ans;60k€+;Non;30-59 jours;Standard
+74;F;Minivan;Private;9.0;dev_premium;février;complet;>40 ans;60k€+;Oui;>90 jours;Premium
+75;M;Pickup;Private;8.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+76;F;z_SUV;Private;18.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+77;F;Minivan;Commercial;1.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+78;M;Panel Truck;Commercial;11.0;dev_premium;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+79;F;Minivan;Private;6.0;dev_express;février;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+80;M;Minivan;Private;1.0;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+81;M;Sports Car;Private;3.0;dev_express;janvier;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+82;M;Van;Commercial;8.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+83;F;z_SUV;Commercial;4.0;dev_express;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Standard
+84;M;Sports Car;Private;;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+85;M;Pickup;Commercial;8.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+86;M;Minivan;Private;9.0;dev_express;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Standard
+87;M;Minivan;Private;17.0;dev_premium;janvier;complet;>40 ans;Non renseigné;Non;>90 jours;Premium
+88;F;z_SUV;Private;1.0;dev_express;mai;complet;<25 ans;20-40k€;Oui;<30 jours;Standard
+89;M;Minivan;Private;13.0;dev_premium;février;complet;>40 ans;40-60k€;Non;>90 jours;Premium
+90;M;Sports Car;Private;2.0;dev_integral;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+91;M;Minivan;Commercial;1.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+92;F;Minivan;Private;1.0;dev_premium;mars;complet;<25 ans;20-40k€;Oui;60–89 jours;Confort
+93;F;Sports Car;Private;1.0;dev_premium;février;complet;<25 ans;60k€+;Non;>90 jours;Premium
+94;M;Van;Private;1.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+95;F;Pickup;Private;11.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+96;F;Pickup;Commercial;5.0;dev_integral;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+97;M;Minivan;Private;1.0;dev_express;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Standard
+98;F;Minivan;Private;6.0;dev_integral;avril;complet;25-40 ans;40-60k€;Oui;30-59 jours;Standard
+99;M;Van;Private;8.0;dev_integral;mai;complet;25-40 ans;60k€+;Oui;<30 jours;Confort
+100;M;z_SUV;Commercial;1.0;dev_integral;février;complet;<25 ans;60k€+;Non;>90 jours;Confort
+101;M;Pickup;Commercial;12.0;dev_integral;février;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+102;F;Minivan;Private;1.0;dev_integral;janvier;complet;<25 ans;40-60k€;Oui;>90 jours;Confort
+103;M;Minivan;Private;11.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+104;M;Panel Truck;Commercial;17.0;dev_express;janvier;complet;<25 ans;60k€+;Non;>90 jours;Standard
+105;M;Minivan;Private;12.0;dev_premium;mai;complet;>40 ans;60k€+;Non;<30 jours;Premium
+106;M;Panel Truck;Commercial;14.0;dev_integral;mars;complet;25-40 ans;Non renseigné;Oui;60–89 jours;Standard
+107;F;Minivan;Private;5.0;dev_integral;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+108;M;Minivan;Commercial;12.0;dev_integral;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Confort
+109;F;Minivan;Private;11.0;dev_express;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+110;M;z_SUV;Private;9.0;dev_premium;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Confort
+111;M;z_SUV;Commercial;9.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+112;M;Minivan;Commercial;12.0;dev_express;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+113;M;z_SUV;Private;8.0;dev_express;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Standard
+114;F;Minivan;Commercial;6.0;dev_express;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Standard
+115;F;z_SUV;Private;14.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+116;F;Minivan;Private;1.0;dev_premium;janvier;complet;>40 ans;20-40k€;Oui;>90 jours;Premium
+117;F;Sports Car;Private;11.0;dev_express;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+118;F;Pickup;Private;7.0;dev_integral;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+119;M;Sports Car;Commercial;1.0;dev_integral;mai;complet;<25 ans;40-60k€;Oui;<30 jours;Confort
+120;M;Minivan;Private;15.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+121;M;z_SUV;Private;13.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Confort
+122;M;Minivan;Private;11.0;dev_express;février;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+123;M;z_SUV;Private;12.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+124;F;Pickup;Private;11.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+125;F;Van;Private;9.0;dev_integral;janvier;complet;25-40 ans;20-40k€;Oui;>90 jours;Confort
+126;M;Minivan;Private;8.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+127;M;Minivan;Private;1.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+128;M;Minivan;Commercial;1.0;dev_express;mars;complet;<25 ans;0-20k€;Non;60–89 jours;Standard
+129;M;Sports Car;Commercial;;dev_premium;avril;complet;<25 ans;40-60k€;Non;30-59 jours;Premium
+130;M;Minivan;Private;13.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+131;F;Sports Car;Private;13.0;dev_express;février;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+132;F;Minivan;Private;9.0;dev_vip;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Premium
+133;M;z_SUV;Private;1.0;dev_express;mars;complet;<25 ans;0-20k€;Oui;60–89 jours;Standard
+134;M;Minivan;Private;5.0;dev_express;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+135;F;z_SUV;Private;9.0;dev_integral;avril;complet;<25 ans;40-60k€;Oui;30-59 jours;Standard
+136;F;Minivan;Private;16.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+137;M;Van;Commercial;15.0;dev_integral;mars;complet;<25 ans;40-60k€;Non;60–89 jours;Confort
+138;M;Van;Commercial;9.0;dev_express;mai;complet;25-40 ans;60k€+;Oui;<30 jours;Standard
+139;M;z_SUV;Commercial;1.0;dev_express;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Standard
+140;F;Sports Car;Private;7.0;dev_premium;avril;complet;>40 ans;Non renseigné;Oui;30-59 jours;Premium
+141;M;Sports Car;Commercial;9.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+142;F;Minivan;Private;9.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+143;F;Pickup;Private;12.0;dev_integral;janvier;complet;<25 ans;60k€+;Oui;>90 jours;Confort
+144;M;z_SUV;Private;15.0;dev_premium;février;complet;>40 ans;40-60k€;Non;>90 jours;Premium
+145;M;z_SUV;Commercial;;dev_express;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+146;M;z_SUV;Private;11.0;dev_express;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+147;M;z_SUV;Private;7.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+148;M;z_SUV;Private;10.0;dev_integral;avril;complet;25-40 ans;20-40k€;Oui;30-59 jours;Standard
+149;F;z_SUV;Private;19.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+150;F;Minivan;Private;15.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+151;M;Minivan;Private;10.0;dev_integral;février;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+152;F;z_SUV;Private;5.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+153;F;Minivan;Private;1.0;dev_express;janvier;complet;>40 ans;Non renseigné;Oui;>90 jours;Standard
+154;M;Minivan;Private;4.0;dev_express;mars;complet;25-40 ans;20-40k€;Non;60–89 jours;Standard
+155;F;Pickup;Commercial;9.0;dev_integral;février;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+156;M;Van;Commercial;12.0;dev_integral;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+157;F;Sports Car;Private;4.0;dev_express;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Standard
+158;M;Pickup;Private;15.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+159;M;Minivan;Commercial;9.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+160;M;z_SUV;Commercial;1.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+161;M;Sports Car;Private;8.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+162;M;z_SUV;Private;12.0;dev_premium;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Premium
+163;F;Minivan;Private;12.0;dev_integral;février;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+164;F;Minivan;Private;14.0;dev_integral;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Confort
+165;F;Sports Car;Private;8.0;dev_express;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Standard
+166;F;Minivan;Private;1.0;dev_express;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Standard
+167;F;Sports Car;Private;17.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+168;F;Pickup;Commercial;4.0;dev_integral;mai;complet;<25 ans;40-60k€;Oui;<30 jours;Standard
+169;F;Panel Truck;Commercial;;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+170;F;z_SUV;Commercial;11.0;dev_integral;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+171;M;Pickup;Private;11.0;dev_express;février;complet;25-40 ans;60k€+;Oui;>90 jours;Standard
+172;F;Minivan;Commercial;1.0;dev_integral;mai;complet;25-40 ans;0-20k€;Non;<30 jours;Confort
+173;M;Minivan;Commercial;11.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+174;F;Minivan;Private;20.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+175;M;z_SUV;Private;1.0;dev_express;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Standard
+176;M;Pickup;Commercial;;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+177;F;Van;Commercial;12.0;dev_express;février;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+178;M;Sports Car;Private;16.0;dev_express;janvier;complet;25-40 ans;Non renseigné;Non;>90 jours;Standard
+179;M;z_SUV;Private;1.0;dev_integral;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+180;F;Van;Commercial;6.0;dev_premium;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Premium
+181;F;Pickup;Commercial;;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+182;F;Van;Commercial;6.0;dev_express;février;complet;25-40 ans;20-40k€;Oui;>90 jours;Standard
+183;M;Panel Truck;Commercial;13.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+184;F;Van;Private;10.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+185;F;Pickup;Private;1.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+186;M;z_SUV;Commercial;5.0;dev_premium;avril;complet;<25 ans;40-60k€;Oui;30-59 jours;Premium
+187;F;z_SUV;Private;1.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Confort
+188;F;z_SUV;Private;9.0;dev_integral;mai;complet;<25 ans;0-20k€;Oui;<30 jours;Confort
+189;F;z_SUV;Private;1.0;dev_premium;janvier;complet;>40 ans;0-20k€;Non;>90 jours;Premium
+190;F;Minivan;Private;11.0;dev_vip;mai;complet;<25 ans;60k€+;Non;<30 jours;Premium
+191;M;Van;Commercial;;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+192;M;Sports Car;Private;1.0;dev_premium;janvier;complet;<25 ans;20-40k€;Non;>90 jours;Premium
+193;F;Sports Car;Private;7.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+194;F;Panel Truck;Commercial;1.0;dev_premium;janvier;complet;25-40 ans;40-60k€;Non;>90 jours;Premium
+195;F;z_SUV;Private;15.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+196;F;Sports Car;Private;7.0;dev_premium;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Confort
+197;F;Minivan;Private;17.0;dev_express;février;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+198;M;Panel Truck;Commercial;13.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+199;F;z_SUV;Private;4.0;dev_integral;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Confort
+200;F;Minivan;Commercial;;dev_express;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+201;M;Sports Car;Private;8.0;dev_express;mars;complet;<25 ans;40-60k€;Non;60–89 jours;Standard
+202;M;Pickup;Commercial;7.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+203;M;Minivan;Commercial;1.0;dev_premium;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Premium
+204;F;z_SUV;Commercial;14.0;dev_premium;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Premium
+205;M;Sports Car;Private;7.0;dev_express;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Standard
+206;M;Minivan;Commercial;1.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+207;M;Minivan;Commercial;;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+208;M;Minivan;Private;12.0;dev_express;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+209;M;Panel Truck;Commercial;8.0;dev_premium;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Premium
+210;F;z_SUV;Private;5.0;dev_integral;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Confort
+211;F;Minivan;Private;8.0;dev_integral;janvier;complet;<25 ans;40-60k€;Oui;>90 jours;Standard
+212;F;Panel Truck;Commercial;16.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+213;F;z_SUV;Private;;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Standard
+214;F;Van;Commercial;5.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+215;M;Van;Commercial;;dev_integral;février;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+216;M;z_SUV;Private;13.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+217;F;Pickup;Private;6.0;dev_express;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Standard
+218;F;z_SUV;Private;19.0;dev_premium;avril;complet;<25 ans;60k€+;Non;30-59 jours;Premium
+219;M;Sports Car;Private;1.0;dev_premium;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Premium
+220;M;Minivan;Private;1.0;dev_integral;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Confort
+221;M;Sports Car;Private;16.0;dev_integral;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+222;M;Pickup;Commercial;18.0;dev_integral;mai;complet;>40 ans;Non renseigné;Oui;<30 jours;Confort
+223;F;z_SUV;Private;3.0;dev_premium;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Premium
+224;F;z_SUV;Commercial;5.0;dev_integral;janvier;complet;<25 ans;60k€+;Oui;>90 jours;Confort
+225;F;Minivan;Commercial;1.0;dev_integral;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+226;M;Minivan;Private;10.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+227;F;z_SUV;Private;9.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Confort
+228;M;z_SUV;Private;3.0;dev_premium;février;complet;25-40 ans;20-40k€;Oui;>90 jours;Premium
+229;F;Minivan;Private;1.0;dev_premium;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Confort
+230;F;Pickup;Private;1.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+231;F;z_SUV;Private;;dev_express;mai;complet;25-40 ans;40-60k€;Non;<30 jours;Standard
+232;M;Minivan;Private;7.0;dev_express;mai;complet;<25 ans;60k€+;Oui;<30 jours;Standard
+233;F;Minivan;Private;;dev_express;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+234;F;z_SUV;Commercial;10.0;dev_express;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+235;F;z_SUV;Private;7.0;dev_integral;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Confort
+236;M;Pickup;Private;16.0;dev_integral;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+237;F;Panel Truck;Commercial;15.0;dev_premium;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Premium
+238;F;z_SUV;Private;15.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+239;M;z_SUV;Private;1.0;dev_integral;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+240;F;Minivan;Private;10.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+241;F;Minivan;Private;15.0;dev_express;mai;complet;25-40 ans;60k€+;Non;<30 jours;Standard
+242;M;z_SUV;Commercial;7.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+243;F;Pickup;Commercial;11.0;dev_express;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Standard
+244;F;Sports Car;Private;12.0;dev_express;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+245;M;z_SUV;Private;5.0;dev_integral;mai;complet;<25 ans;40-60k€;Oui;<30 jours;Standard
+246;F;Van;Private;12.0;dev_integral;janvier;complet;>40 ans;Non renseigné;Non;>90 jours;Standard
+247;M;Pickup;Commercial;7.0;dev_premium;mai;complet;25-40 ans;60k€+;Oui;<30 jours;Premium
+248;M;Van;Commercial;1.0;dev_integral;janvier;complet;<25 ans;0-20k€;Oui;>90 jours;Confort
+249;M;Pickup;Private;10.0;dev_integral;avril;complet;25-40 ans;20-40k€;Non;30-59 jours;Confort
+250;F;Minivan;Private;15.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+251;M;z_SUV;Private;20.0;dev_integral;janvier;complet;<25 ans;60k€+;Non;>90 jours;Confort
+252;F;z_SUV;Commercial;12.0;dev_express;mai;complet;25-40 ans;40-60k€;Non;<30 jours;Standard
+253;M;Minivan;Commercial;6.0;dev_premium;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Premium
+254;F;Van;Private;18.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+255;M;Minivan;Private;8.0;dev_integral;avril;complet;<25 ans;20-40k€;Non;30-59 jours;Confort
+256;M;Van;Commercial;;dev_premium;mai;complet;>40 ans;60k€+;Oui;<30 jours;Premium
+257;M;Minivan;Private;16.0;dev_integral;février;complet;>40 ans;Non renseigné;Oui;>90 jours;Confort
+258;F;Minivan;Private;5.0;dev_express;février;complet;<25 ans;20-40k€;Oui;>90 jours;Standard
+259;F;Minivan;Private;1.0;dev_premium;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Premium
+260;F;Panel Truck;Commercial;10.0;dev_express;février;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+261;F;Panel Truck;Commercial;8.0;dev_integral;avril;complet;<25 ans;60k€+;Non;30-59 jours;Confort
+262;F;Van;Commercial;9.0;dev_express;février;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+263;M;Pickup;Commercial;17.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+264;M;Van;Commercial;10.0;dev_express;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+265;M;z_SUV;Private;;dev_integral;mai;complet;>40 ans;0-20k€;Non;<30 jours;Confort
+266;M;z_SUV;Private;7.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+267;M;z_SUV;Private;1.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+268;M;Panel Truck;Commercial;11.0;dev_express;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+269;F;z_SUV;Private;12.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+270;F;Minivan;Private;13.0;dev_premium;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+271;F;Sports Car;Commercial;12.0;dev_integral;février;complet;25-40 ans;40-60k€;Non;>90 jours;Confort
+272;M;Pickup;Commercial;13.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+273;F;Van;Commercial;8.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+274;M;Van;Private;1.0;dev_express;janvier;complet;<25 ans;60k€+;Non;>90 jours;Standard
+275;M;z_SUV;Private;1.0;dev_express;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Standard
+276;F;Panel Truck;Commercial;10.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+277;M;Pickup;Commercial;8.0;dev_integral;janvier;complet;25-40 ans;60k€+;Oui;>90 jours;Confort
+278;M;Pickup;Commercial;1.0;dev_express;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Standard
+279;M;Panel Truck;Commercial;20.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Confort
+280;M;z_SUV;Private;2.0;dev_integral;janvier;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+281;M;Minivan;Private;12.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+282;M;Sports Car;Private;11.0;dev_premium;janvier;complet;<25 ans;0-20k€;Non;>90 jours;Premium
+283;F;Sports Car;Private;12.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Confort
+284;F;Minivan;Private;11.0;dev_integral;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Confort
+285;F;z_SUV;Private;1.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+286;F;Pickup;Private;1.0;dev_integral;janvier;complet;<25 ans;20-40k€;Non;>90 jours;Confort
+287;F;Pickup;Commercial;10.0;dev_integral;janvier;complet;25-40 ans;20-40k€;Non;>90 jours;Confort
+288;M;Minivan;Private;7.0;dev_integral;janvier;complet;>40 ans;Non renseigné;Non;>90 jours;Confort
+289;F;Panel Truck;Commercial;17.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+290;M;Pickup;Private;14.0;dev_premium;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Premium
+291;M;Pickup;Private;9.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+292;M;Pickup;Private;8.0;dev_integral;mars;complet;<25 ans;40-60k€;Non;60–89 jours;Confort
+293;M;Minivan;Private;;dev_integral;mars;complet;<25 ans;20-40k€;Non;60–89 jours;Confort
+294;M;Van;Commercial;4.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+295;F;z_SUV;Private;1.0;dev_express;mai;complet;<25 ans;20-40k€;Oui;<30 jours;Standard
+296;F;z_SUV;Private;11.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+297;F;z_SUV;Private;;dev_premium;avril;complet;<25 ans;40-60k€;Non;30-59 jours;Premium
+298;F;Minivan;Private;11.0;dev_express;février;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+299;F;Pickup;Private;10.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+300;F;Panel Truck;Commercial;21.0;dev_express;mars;complet;<25 ans;40-60k€;Oui;60–89 jours;Standard
+301;M;Sports Car;Commercial;1.0;dev_integral;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+302;F;Pickup;Private;10.0;dev_integral;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Standard
+303;F;z_SUV;Private;1.0;dev_express;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+304;F;Minivan;Private;1.0;dev_integral;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Confort
+305;F;Pickup;Private;10.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+306;F;Sports Car;Private;12.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+307;M;Pickup;Commercial;20.0;dev_express;janvier;complet;<25 ans;60k€+;Non;>90 jours;Standard
+308;F;z_SUV;Private;3.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+309;F;Minivan;Private;11.0;dev_premium;février;complet;<25 ans;60k€+;Non;>90 jours;Premium
+310;F;Panel Truck;Commercial;19.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+311;F;Minivan;Commercial;11.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+312;M;Sports Car;Commercial;7.0;dev_express;mai;complet;25-40 ans;40-60k€;Non;<30 jours;Standard
+313;M;Minivan;Private;8.0;dev_premium;mai;complet;25-40 ans;20-40k€;Non;<30 jours;Premium
+314;M;Sports Car;Private;1.0;dev_integral;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Confort
+315;F;Pickup;Private;12.0;dev_integral;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Confort
+316;M;Minivan;Private;1.0;dev_integral;février;complet;<25 ans;0-20k€;Non;>90 jours;Confort
+317;M;Minivan;Private;11.0;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+318;F;Panel Truck;Commercial;7.0;dev_integral;mars;complet;<25 ans;20-40k€;Non;60–89 jours;Standard
+319;F;z_SUV;Private;5.0;dev_express;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+320;M;Pickup;Private;9.0;dev_integral;mars;complet;>40 ans;Non renseigné;Oui;60–89 jours;Confort
+321;F;Van;Private;14.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+322;F;z_SUV;Private;4.0;dev_integral;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Confort
+323;F;Sports Car;Private;6.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+324;F;Pickup;Commercial;1.0;dev_express;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+325;F;z_SUV;Private;1.0;dev_express;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+326;M;Minivan;Commercial;1.0;dev_express;février;complet;<25 ans;60k€+;Non;>90 jours;Standard
+327;F;Minivan;Private;19.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+328;F;z_SUV;Commercial;12.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Confort
+329;F;Minivan;Private;1.0;dev_integral;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Confort
+330;F;z_SUV;Private;9.0;dev_premium;mai;complet;>40 ans;20-40k€;Non;<30 jours;Premium
+331;F;Pickup;Private;9.0;dev_vip;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+332;M;Minivan;Private;1.0;dev_express;février;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+333;M;Sports Car;Private;4.0;dev_express;février;complet;25-40 ans;20-40k€;Non;>90 jours;Standard
+334;M;Van;Commercial;7.0;dev_integral;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Standard
+335;F;Minivan;Commercial;9.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+336;F;z_SUV;Private;20.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+337;M;Sports Car;Private;15.0;dev_integral;février;complet;<25 ans;40-60k€;Non;>90 jours;Standard
+338;M;Pickup;Commercial;7.0;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Confort
+339;M;z_SUV;Commercial;9.0;dev_integral;avril;complet;25-40 ans;60k€+;Oui;30-59 jours;Standard
+340;F;Sports Car;Private;6.0;dev_express;janvier;complet;25-40 ans;0-20k€;Oui;>90 jours;Standard
+341;M;Panel Truck;Commercial;8.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+342;M;Sports Car;Commercial;1.0;dev_integral;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Confort
+343;M;z_SUV;Private;1.0;dev_integral;mai;complet;25-40 ans;60k€+;Non;<30 jours;Confort
+344;M;Minivan;Commercial;5.0;dev_integral;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Standard
+345;M;Van;Commercial;8.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+346;M;z_SUV;Private;;dev_premium;mars;complet;>40 ans;60k€+;Non;60–89 jours;Premium
+347;F;Panel Truck;Commercial;14.0;dev_express;février;complet;<25 ans;60k€+;Non;>90 jours;Standard
+348;F;Panel Truck;Commercial;3.0;dev_integral;mars;complet;<25 ans;60k€+;Oui;60–89 jours;Standard
+349;F;Minivan;Private;10.0;dev_express;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Standard
+350;M;Sports Car;Private;1.0;dev_integral;janvier;complet;25-40 ans;0-20k€;Non;>90 jours;Confort
+351;F;Minivan;Private;10.0;dev_vip;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Premium
+352;M;Minivan;Private;13.0;dev_integral;janvier;complet;25-40 ans;40-60k€;Non;>90 jours;Confort
+353;M;z_SUV;Commercial;1.0;dev_integral;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+354;F;Sports Car;Private;20.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+355;M;Panel Truck;Commercial;1.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+356;F;Minivan;Private;18.0;dev_express;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+357;F;z_SUV;Private;25.0;dev_integral;avril;complet;>40 ans;Non renseigné;Non;30-59 jours;Standard
+358;M;Panel Truck;Commercial;19.0;dev_integral;mai;complet;25-40 ans;60k€+;Oui;<30 jours;Confort
+359;M;Pickup;Private;17.0;dev_express;mai;complet;<25 ans;20-40k€;Oui;<30 jours;Standard
+360;F;Pickup;Commercial;11.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+361;F;Van;Private;13.0;dev_express;mai;complet;>40 ans;40-60k€;Non;<30 jours;Standard
+362;M;z_SUV;Commercial;8.0;dev_premium;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Premium
+363;M;z_SUV;Commercial;5.0;dev_express;mai;complet;<25 ans;40-60k€;Oui;<30 jours;Standard
+364;F;Minivan;Private;1.0;dev_premium;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Premium
+365;M;z_SUV;Commercial;1.0;dev_integral;janvier;complet;25-40 ans;0-20k€;Oui;>90 jours;Standard
+366;M;Minivan;Private;;dev_integral;mai;complet;>40 ans;Non renseigné;Oui;<30 jours;Confort
+367;F;Minivan;Private;8.0;dev_integral;avril;complet;25-40 ans;20-40k€;Oui;30-59 jours;Standard
+368;F;z_SUV;Private;9.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+369;F;Minivan;Private;7.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+370;M;Sports Car;Private;13.0;dev_premium;février;complet;<25 ans;40-60k€;Oui;>90 jours;Premium
+371;F;z_SUV;Private;10.0;dev_express;janvier;complet;25-40 ans;0-20k€;Oui;>90 jours;Standard
+372;M;Minivan;Private;;dev_integral;janvier;complet;>40 ans;Non renseigné;Non;>90 jours;Confort
+373;M;Panel Truck;Commercial;8.0;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Confort
+374;F;Minivan;Private;1.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Confort
+375;F;z_SUV;Private;;dev_express;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Standard
+376;M;z_SUV;Private;6.0;dev_express;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+377;F;z_SUV;Private;11.0;dev_premium;janvier;complet;>40 ans;20-40k€;Oui;>90 jours;Premium
+378;M;Minivan;Private;21.0;dev_integral;mai;complet;<25 ans;60k€+;Oui;<30 jours;Confort
+379;M;Minivan;Private;8.0;dev_integral;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Confort
+380;F;Minivan;Private;;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+381;M;Minivan;Private;18.0;dev_express;janvier;complet;<25 ans;60k€+;Oui;>90 jours;Standard
+382;M;Van;Commercial;7.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+383;M;Van;Commercial;16.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+384;M;Sports Car;Private;14.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+385;M;z_SUV;Commercial;11.0;dev_integral;mai;complet;<25 ans;60k€+;Oui;<30 jours;Standard
+386;F;z_SUV;Commercial;4.0;dev_express;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Standard
+387;M;Minivan;Private;19.0;dev_express;février;complet;<25 ans;60k€+;Non;>90 jours;Standard
+388;F;Pickup;Private;14.0;dev_integral;mars;complet;>40 ans;Non renseigné;Non;60–89 jours;Standard
+389;M;z_SUV;Private;5.0;dev_express;janvier;complet;25-40 ans;20-40k€;Non;>90 jours;Standard
+390;M;Minivan;Private;16.0;dev_express;février;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+391;F;z_SUV;Private;12.0;dev_integral;avril;complet;25-40 ans;60k€+;Oui;30-59 jours;Standard
+392;F;Sports Car;Private;15.0;dev_integral;mars;complet;25-40 ans;Non renseigné;Non;60–89 jours;Confort
+393;F;Minivan;Commercial;11.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+394;M;Panel Truck;Commercial;7.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+395;F;Van;Private;3.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+396;M;Pickup;Commercial;8.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+397;F;Pickup;Commercial;8.0;dev_premium;février;complet;25-40 ans;60k€+;Oui;>90 jours;Premium
+398;M;z_SUV;Private;16.0;dev_premium;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Confort
+399;M;z_SUV;Private;10.0;dev_express;février;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+400;M;Minivan;Commercial;9.0;dev_integral;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Standard
+401;F;Sports Car;Commercial;1.0;dev_integral;février;complet;<25 ans;Non renseigné;Non;>90 jours;Confort
+402;M;Panel Truck;Commercial;5.0;dev_integral;avril;complet;<25 ans;60k€+;Non;30-59 jours;Confort
+403;M;z_SUV;Private;5.0;dev_express;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+404;M;Panel Truck;Commercial;16.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+405;M;Panel Truck;Commercial;19.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+406;F;Minivan;Private;7.0;dev_integral;avril;complet;<25 ans;40-60k€;Oui;30-59 jours;Standard
+407;F;z_SUV;Commercial;8.0;dev_integral;février;complet;<25 ans;60k€+;Oui;>90 jours;Standard
+408;M;Minivan;Private;9.0;dev_premium;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Confort
+409;M;Van;Commercial;14.0;dev_premium;mars;complet;25-40 ans;Non renseigné;Non;60–89 jours;Confort
+410;F;z_SUV;Private;1.0;dev_premium;février;complet;>40 ans;0-20k€;Non;>90 jours;Confort
+411;M;Van;Commercial;1.0;dev_integral;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Confort
+412;M;Sports Car;Private;14.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+413;F;Pickup;Private;;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Premium
+414;F;z_SUV;Private;16.0;dev_premium;janvier;complet;<25 ans;0-20k€;Non;>90 jours;Premium
+415;M;Pickup;Commercial;16.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+416;F;Pickup;Private;;dev_express;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Standard
+417;M;Pickup;Private;1.0;dev_integral;mai;complet;>40 ans;0-20k€;Non;<30 jours;Confort
+418;F;z_SUV;Private;1.0;dev_integral;mars;complet;25-40 ans;0-20k€;Oui;60–89 jours;Confort
+419;M;Pickup;Private;1.0;dev_express;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Standard
+420;F;Panel Truck;Commercial;1.0;dev_integral;janvier;complet;25-40 ans;Non renseigné;Oui;>90 jours;Confort
+421;M;Pickup;Commercial;1.0;dev_integral;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Confort
+422;M;Van;Private;16.0;dev_integral;avril;complet;<25 ans;60k€+;Non;30-59 jours;Confort
+423;M;Minivan;Private;1.0;dev_integral;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Confort
+424;M;Minivan;Commercial;7.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+425;F;Sports Car;Private;12.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+426;M;z_SUV;Commercial;7.0;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Premium
+427;M;Minivan;Commercial;5.0;dev_premium;mars;complet;25-40 ans;20-40k€;Oui;60–89 jours;Premium
+428;F;Minivan;Private;1.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+429;F;Panel Truck;Commercial;18.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+430;F;z_SUV;Private;11.0;dev_integral;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Confort
+431;F;z_SUV;Commercial;1.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+432;M;Panel Truck;Commercial;4.0;dev_vip;mai;complet;<25 ans;60k€+;Non;<30 jours;Premium
+433;F;Pickup;Commercial;17.0;dev_integral;janvier;complet;>40 ans;Non renseigné;Non;>90 jours;Standard
+434;F;Minivan;Private;15.0;dev_express;avril;complet;<25 ans;20-40k€;Non;30-59 jours;Standard
+435;F;Panel Truck;Commercial;;dev_integral;février;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+436;F;Pickup;Commercial;1.0;dev_express;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Standard
+437;F;Pickup;Commercial;13.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+438;F;Van;Private;12.0;dev_integral;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Confort
+439;M;z_SUV;Commercial;6.0;dev_premium;février;complet;>40 ans;0-20k€;Oui;>90 jours;Premium
+440;F;Sports Car;Private;9.0;dev_integral;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+441;F;Pickup;Commercial;1.0;dev_premium;mars;complet;25-40 ans;0-20k€;Non;60–89 jours;Confort
+442;F;Pickup;Private;;dev_integral;mars;complet;>40 ans;Non renseigné;Non;60–89 jours;Confort
+443;F;Pickup;Commercial;19.0;dev_integral;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+444;F;z_SUV;Commercial;7.0;dev_express;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Standard
+445;M;z_SUV;Private;15.0;dev_express;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Standard
+446;F;Pickup;Commercial;1.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+447;M;z_SUV;Private;9.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+448;M;z_SUV;Private;6.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Standard
+449;F;z_SUV;Private;1.0;dev_express;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Standard
+450;F;Sports Car;Private;12.0;dev_express;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+451;M;Pickup;Commercial;4.0;dev_express;janvier;complet;25-40 ans;Non renseigné;Non;>90 jours;Standard
+452;F;z_SUV;Private;8.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Confort
+453;F;z_SUV;Private;20.0;dev_premium;février;complet;>40 ans;60k€+;Non;>90 jours;Premium
+454;M;Van;Commercial;4.0;dev_express;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+455;F;Minivan;Commercial;10.0;dev_express;mai;complet;25-40 ans;40-60k€;Oui;<30 jours;Standard
+456;F;Pickup;Commercial;;dev_integral;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+457;F;Van;Commercial;1.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+458;F;Sports Car;Private;8.0;dev_premium;avril;complet;25-40 ans;0-20k€;Oui;30-59 jours;Premium
+459;M;Pickup;Private;1.0;dev_integral;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+460;M;Minivan;Private;1.0;dev_integral;janvier;complet;25-40 ans;60k€+;Oui;>90 jours;Standard
+461;M;z_SUV;Private;9.0;dev_premium;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Confort
+462;M;Sports Car;Private;5.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+463;M;Panel Truck;Commercial;12.0;dev_express;février;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+464;F;Minivan;Private;11.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+465;M;Pickup;Commercial;5.0;dev_integral;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+466;M;Pickup;Commercial;12.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+467;F;Van;Commercial;;dev_express;mai;complet;<25 ans;60k€+;Oui;<30 jours;Standard
+468;F;Panel Truck;Commercial;;dev_premium;janvier;complet;<25 ans;60k€+;Non;>90 jours;Premium
+469;F;z_SUV;Private;6.0;dev_integral;mai;complet;<25 ans;20-40k€;Non;<30 jours;Confort
+470;F;Minivan;Commercial;1.0;dev_integral;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+471;F;z_SUV;Private;6.0;dev_express;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+472;M;Minivan;Private;9.0;dev_express;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+473;M;z_SUV;Private;4.0;dev_premium;janvier;complet;<25 ans;20-40k€;Oui;>90 jours;Premium
+474;F;Pickup;Private;9.0;dev_integral;avril;complet;<25 ans;40-60k€;Oui;30-59 jours;Confort
+475;M;z_SUV;Private;1.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+476;F;z_SUV;Private;1.0;dev_express;mars;complet;<25 ans;0-20k€;Oui;60–89 jours;Standard
+477;F;z_SUV;Private;8.0;dev_integral;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Confort
+478;M;Panel Truck;Commercial;18.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+479;M;Minivan;Private;11.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+480;F;Pickup;Commercial;6.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+481;F;z_SUV;Private;1.0;dev_integral;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+482;F;Van;Private;1.0;dev_express;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+483;F;z_SUV;Private;;dev_express;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Standard
+484;F;Minivan;Private;7.0;dev_premium;mai;complet;>40 ans;60k€+;Oui;<30 jours;Premium
+485;F;Sports Car;Private;10.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+486;F;Minivan;Private;1.0;dev_integral;mai;complet;<25 ans;0-20k€;Non;<30 jours;Standard
+487;F;Sports Car;Private;1.0;dev_integral;avril;complet;<25 ans;20-40k€;Oui;30-59 jours;Standard
+488;M;z_SUV;Commercial;1.0;dev_premium;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+489;M;Sports Car;Private;10.0;dev_express;février;complet;<25 ans;20-40k€;Oui;>90 jours;Standard
+490;M;Minivan;Commercial;8.0;dev_express;mai;complet;25-40 ans;20-40k€;Oui;<30 jours;Standard
+491;F;z_SUV;Private;10.0;dev_express;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+492;M;z_SUV;Private;6.0;dev_express;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+493;F;Pickup;Commercial;11.0;dev_integral;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Standard
+494;M;z_SUV;Private;1.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+495;F;Panel Truck;Commercial;8.0;dev_premium;mai;complet;<25 ans;60k€+;Non;<30 jours;Premium
+496;F;Minivan;Private;;dev_premium;mai;complet;<25 ans;20-40k€;Non;<30 jours;Confort
+497;F;Van;Commercial;13.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+498;M;Pickup;Commercial;1.0;dev_integral;janvier;complet;<25 ans;0-20k€;Oui;>90 jours;Confort
+499;M;Pickup;Private;19.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+500;M;z_SUV;Private;9.0;dev_integral;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Confort
+501;M;Pickup;Private;;dev_express;mai;complet;<25 ans;60k€+;Non;<30 jours;Standard
+502;F;Minivan;Private;15.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+503;F;Pickup;Private;10.0;dev_premium;mai;complet;>40 ans;20-40k€;Non;<30 jours;Premium
+504;F;z_SUV;Private;7.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+505;F;Pickup;Commercial;1.0;dev_express;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+506;F;Van;Commercial;12.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+507;F;Pickup;Private;1.0;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Confort
+508;M;Minivan;Commercial;8.0;dev_integral;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Standard
+509;F;Van;Commercial;10.0;dev_premium;mars;complet;>40 ans;60k€+;Non;60–89 jours;Premium
+510;F;Minivan;Private;13.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+511;F;z_SUV;Private;1.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+512;M;z_SUV;Commercial;1.0;dev_express;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+513;F;Minivan;Commercial;17.0;dev_integral;avril;complet;<25 ans;0-20k€;Non;30-59 jours;Standard
+514;M;Pickup;Commercial;7.0;dev_premium;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+515;M;Minivan;Private;21.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+516;M;Minivan;Private;8.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+517;F;Minivan;Commercial;1.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+518;F;Panel Truck;Commercial;11.0;dev_express;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+519;M;Minivan;Private;22.0;dev_integral;février;complet;25-40 ans;Non renseigné;Non;>90 jours;Confort
+520;F;z_SUV;Commercial;10.0;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Premium
+521;M;Minivan;Private;;dev_integral;février;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+522;F;z_SUV;Private;8.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+523;M;Minivan;Commercial;4.0;dev_integral;avril;complet;<25 ans;0-20k€;Oui;30-59 jours;Confort
+524;M;Minivan;Private;;dev_express;mai;complet;<25 ans;60k€+;Non;<30 jours;Standard
+525;F;z_SUV;Private;7.0;dev_express;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Standard
+526;F;Minivan;Private;1.0;dev_premium;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+527;M;Pickup;Commercial;1.0;dev_express;février;complet;25-40 ans;Non renseigné;Non;>90 jours;Standard
+528;F;z_SUV;Private;6.0;dev_integral;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Confort
+529;M;Pickup;Commercial;4.0;dev_integral;février;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+530;M;Sports Car;Private;;dev_express;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Standard
+531;F;Minivan;Private;9.0;dev_express;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+532;M;Panel Truck;Commercial;1.0;dev_express;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Standard
+533;M;Pickup;Commercial;8.0;dev_express;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Standard
+534;M;Pickup;Commercial;1.0;dev_express;mars;complet;>40 ans;Non renseigné;Non;60–89 jours;Standard
+535;M;Pickup;Commercial;13.0;dev_premium;mai;complet;>40 ans;40-60k€;Oui;<30 jours;Confort
+536;M;Pickup;Private;9.0;dev_express;avril;complet;>40 ans;Non renseigné;Oui;30-59 jours;Standard
+537;F;z_SUV;Commercial;1.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+538;F;Minivan;Private;;dev_express;janvier;complet;>40 ans;Non renseigné;Oui;>90 jours;Standard
+539;F;Sports Car;Private;8.0;dev_integral;janvier;complet;25-40 ans;0-20k€;Oui;>90 jours;Standard
+540;F;Pickup;Private;1.0;dev_express;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+541;M;Pickup;Private;15.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+542;F;Sports Car;Private;18.0;dev_express;mars;complet;<25 ans;60k€+;Oui;60–89 jours;Standard
+543;M;Minivan;Private;12.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+544;M;Minivan;Private;17.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Confort
+545;F;Sports Car;Private;1.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+546;F;Panel Truck;Commercial;14.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+547;M;Sports Car;Private;9.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+548;M;z_SUV;Private;7.0;dev_express;avril;complet;25-40 ans;20-40k€;Non;30-59 jours;Standard
+549;F;Sports Car;Private;9.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+550;M;z_SUV;Private;12.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+551;F;Pickup;Private;11.0;dev_premium;février;complet;25-40 ans;40-60k€;Oui;>90 jours;Premium
+552;M;z_SUV;Private;18.0;dev_integral;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Confort
+553;M;Sports Car;Private;20.0;dev_integral;avril;complet;>40 ans;Non renseigné;Non;30-59 jours;Confort
+554;M;z_SUV;Commercial;9.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Confort
+555;M;z_SUV;Commercial;5.0;dev_integral;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+556;M;Pickup;Commercial;7.0;dev_express;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Standard
+557;M;Minivan;Private;1.0;dev_express;avril;complet;<25 ans;Non renseigné;Non;30-59 jours;Standard
+558;M;Minivan;Private;;dev_integral;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Confort
+559;F;Panel Truck;Commercial;;dev_integral;mai;complet;>40 ans;0-20k€;Non;<30 jours;Confort
+560;M;Pickup;Private;1.0;dev_integral;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Confort
+561;M;Minivan;Private;19.0;dev_express;mars;complet;<25 ans;40-60k€;Non;60–89 jours;Standard
+562;M;Sports Car;Private;10.0;dev_integral;avril;complet;<25 ans;0-20k€;Non;30-59 jours;Confort
+563;M;Van;Commercial;18.0;dev_integral;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Confort
+564;M;Minivan;Private;10.0;dev_express;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+565;F;Van;Private;1.0;dev_integral;janvier;complet;<25 ans;0-20k€;Oui;>90 jours;Standard
+566;M;z_SUV;Private;16.0;dev_express;mai;complet;25-40 ans;60k€+;Oui;<30 jours;Standard
+567;F;z_SUV;Private;9.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+568;M;Pickup;Private;7.0;dev_integral;février;complet;<25 ans;0-20k€;Oui;>90 jours;Confort
+569;F;Pickup;Private;15.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+570;M;z_SUV;Private;13.0;dev_express;mai;complet;25-40 ans;60k€+;Non;<30 jours;Standard
+571;F;Minivan;Private;14.0;dev_premium;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+572;F;Panel Truck;Commercial;24.0;dev_premium;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Premium
+573;F;Pickup;Commercial;10.0;dev_express;janvier;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+574;F;z_SUV;Private;13.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+575;F;Pickup;Private;17.0;dev_express;mai;complet;<25 ans;0-20k€;Non;<30 jours;Standard
+576;M;Van;Commercial;8.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+577;F;Pickup;Private;15.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+578;M;Minivan;Commercial;10.0;dev_express;mai;complet;<25 ans;0-20k€;Non;<30 jours;Standard
+579;M;Minivan;Private;1.0;dev_integral;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Confort
+580;M;z_SUV;Private;1.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+581;M;Minivan;Private;1.0;dev_premium;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Confort
+582;M;Panel Truck;Commercial;10.0;dev_express;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+583;M;Minivan;Private;13.0;dev_express;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Standard
+584;M;Minivan;Private;7.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Confort
+585;F;Minivan;Commercial;;dev_integral;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+586;M;Sports Car;Private;1.0;dev_integral;janvier;complet;>40 ans;0-20k€;Non;>90 jours;Confort
+587;M;z_SUV;Private;5.0;dev_premium;mai;complet;>40 ans;60k€+;Oui;<30 jours;Premium
+588;M;z_SUV;Private;10.0;dev_premium;mars;complet;>40 ans;Non renseigné;Oui;60–89 jours;Premium
+589;M;z_SUV;Private;3.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+590;M;z_SUV;Private;1.0;dev_express;avril;complet;25-40 ans;Non renseigné;Oui;30-59 jours;Standard
+591;F;Pickup;Private;1.0;dev_express;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Standard
+592;F;Panel Truck;Commercial;10.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+593;M;Van;Private;;dev_express;janvier;complet;<25 ans;60k€+;Non;>90 jours;Standard
+594;M;z_SUV;Private;14.0;dev_integral;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Confort
+595;F;z_SUV;Private;6.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Confort
+596;M;Sports Car;Private;19.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+597;M;Minivan;Private;6.0;dev_integral;février;complet;25-40 ans;0-20k€;Non;>90 jours;Confort
+598;M;Minivan;Private;14.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+599;M;Sports Car;Private;20.0;dev_premium;février;complet;>40 ans;0-20k€;Non;>90 jours;Premium
+600;F;Pickup;Commercial;7.0;dev_integral;février;complet;25-40 ans;60k€+;Oui;>90 jours;Standard
+601;M;Pickup;Commercial;1.0;dev_premium;mars;complet;>40 ans;Non renseigné;Oui;60–89 jours;Confort
+602;M;z_SUV;Commercial;13.0;dev_express;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+603;F;Minivan;Private;13.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Confort
+604;M;Panel Truck;Commercial;6.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+605;F;z_SUV;Commercial;1.0;dev_premium;janvier;complet;<25 ans;60k€+;Non;>90 jours;Premium
+606;M;Sports Car;Private;7.0;dev_premium;mai;complet;25-40 ans;Non renseigné;Non;<30 jours;Premium
+607;F;Minivan;Private;15.0;dev_integral;février;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+608;M;Van;Commercial;13.0;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Premium
+609;M;Minivan;Commercial;7.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+610;F;z_SUV;Commercial;7.0;dev_express;mai;complet;<25 ans;20-40k€;Oui;<30 jours;Standard
+611;M;Minivan;Private;7.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+612;M;Minivan;Private;16.0;dev_integral;février;complet;<25 ans;60k€+;Oui;>90 jours;Confort
+613;F;z_SUV;Private;15.0;dev_premium;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+614;M;Minivan;Commercial;7.0;dev_premium;février;complet;<25 ans;20-40k€;Non;>90 jours;Premium
+615;M;Van;Private;18.0;dev_integral;avril;complet;<25 ans;60k€+;Non;30-59 jours;Confort
+616;F;Sports Car;Private;21.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+617;F;z_SUV;Private;13.0;dev_integral;janvier;complet;<25 ans;60k€+;Non;>90 jours;Confort
+618;M;Sports Car;Private;11.0;dev_integral;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Confort
+619;F;Sports Car;Commercial;;dev_integral;février;complet;<25 ans;40-60k€;Non;>90 jours;Standard
+620;F;Minivan;Private;;dev_express;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+621;M;Minivan;Private;5.0;dev_integral;mai;complet;>40 ans;Non renseigné;Oui;<30 jours;Confort
+622;F;Panel Truck;Commercial;17.0;dev_express;janvier;complet;<25 ans;60k€+;Non;>90 jours;Standard
+623;M;Sports Car;Private;14.0;dev_express;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+624;M;Pickup;Private;10.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Standard
+625;M;Sports Car;Commercial;11.0;dev_integral;avril;complet;<25 ans;40-60k€;Non;30-59 jours;Confort
+626;M;Van;Private;18.0;dev_integral;avril;complet;<25 ans;40-60k€;Non;30-59 jours;Confort
+627;M;Pickup;Private;1.0;dev_premium;février;complet;<25 ans;20-40k€;Non;>90 jours;Premium
+628;F;Minivan;Private;11.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+629;M;Minivan;Private;13.0;dev_express;avril;complet;<25 ans;60k€+;Non;30-59 jours;Standard
+630;M;Minivan;Commercial;9.0;dev_premium;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Premium
+631;M;Sports Car;Private;1.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+632;M;Pickup;Private;8.0;dev_integral;mars;complet;<25 ans;40-60k€;Non;60–89 jours;Confort
+633;M;Minivan;Private;15.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Confort
+634;F;Sports Car;Private;8.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+635;F;Van;Commercial;7.0;dev_express;mars;complet;<25 ans;60k€+;Oui;60–89 jours;Standard
+636;F;Pickup;Commercial;10.0;dev_integral;février;complet;<25 ans;60k€+;Oui;>90 jours;Confort
+637;F;Panel Truck;Commercial;;dev_integral;février;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+638;F;z_SUV;Private;1.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+639;F;Pickup;Commercial;1.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+640;F;Pickup;Commercial;1.0;dev_premium;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Confort
+641;M;Sports Car;Private;1.0;dev_premium;février;complet;>40 ans;0-20k€;Oui;>90 jours;Premium
+642;F;Minivan;Private;7.0;dev_integral;mars;complet;<25 ans;0-20k€;Non;60–89 jours;Confort
+643;F;z_SUV;Private;1.0;dev_integral;janvier;complet;25-40 ans;20-40k€;Non;>90 jours;Standard
+644;M;Minivan;Private;7.0;dev_integral;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Confort
+645;F;Minivan;Private;17.0;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+646;F;z_SUV;Private;1.0;dev_integral;février;complet;<25 ans;60k€+;Non;>90 jours;Confort
+647;M;Minivan;Private;25.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+648;M;Minivan;Commercial;9.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+649;M;Pickup;Commercial;16.0;dev_integral;février;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+650;F;Sports Car;Private;;dev_integral;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Confort
+651;M;z_SUV;Commercial;8.0;dev_premium;février;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+652;F;z_SUV;Private;1.0;dev_integral;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+653;M;Minivan;Commercial;1.0;dev_integral;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+654;F;Panel Truck;Commercial;18.0;dev_vip;janvier;complet;25-40 ans;60k€+;Oui;>90 jours;Premium
+655;M;z_SUV;Commercial;1.0;dev_integral;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Confort
+656;F;z_SUV;Private;1.0;dev_integral;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+657;M;Van;Commercial;1.0;dev_integral;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+658;F;z_SUV;Private;6.0;dev_integral;janvier;complet;>40 ans;Non renseigné;Oui;>90 jours;Confort
+659;F;Minivan;Private;11.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+660;F;Pickup;Commercial;4.0;dev_premium;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Confort
+661;F;Pickup;Commercial;14.0;dev_integral;mars;complet;25-40 ans;20-40k€;Non;60–89 jours;Confort
+662;M;Van;Private;22.0;dev_vip;mai;complet;>40 ans;0-20k€;Non;<30 jours;Premium
+663;M;Minivan;Private;16.0;dev_premium;février;complet;>40 ans;60k€+;Oui;>90 jours;Premium
+664;M;Sports Car;Private;6.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Confort
+665;M;Pickup;Commercial;18.0;dev_integral;avril;complet;25-40 ans;60k€+;Oui;30-59 jours;Confort
+666;M;z_SUV;Private;1.0;dev_premium;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Premium
+667;M;Minivan;Private;12.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Confort
+668;F;Minivan;Commercial;13.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Confort
+669;F;z_SUV;Private;1.0;dev_integral;janvier;complet;<25 ans;20-40k€;Non;>90 jours;Confort
+670;M;z_SUV;Private;15.0;dev_integral;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Confort
+671;F;z_SUV;Commercial;8.0;dev_express;mai;complet;<25 ans;0-20k€;Oui;<30 jours;Standard
+672;M;z_SUV;Private;1.0;dev_integral;février;complet;25-40 ans;0-20k€;Oui;>90 jours;Standard
+673;M;Pickup;Private;1.0;dev_express;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Standard
+674;F;Pickup;Commercial;6.0;dev_integral;février;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+675;M;Minivan;Commercial;1.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+676;M;Pickup;Commercial;16.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+677;F;z_SUV;Commercial;11.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+678;F;Minivan;Private;15.0;dev_integral;janvier;complet;25-40 ans;40-60k€;Non;>90 jours;Standard
+679;M;z_SUV;Commercial;1.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+680;M;Minivan;Private;1.0;dev_integral;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Confort
+681;F;Van;Commercial;5.0;dev_express;janvier;complet;<25 ans;20-40k€;Oui;>90 jours;Standard
+682;M;Van;Commercial;5.0;dev_premium;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+683;M;z_SUV;Private;8.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+684;F;Minivan;Private;1.0;dev_premium;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Premium
+685;F;z_SUV;Commercial;6.0;dev_integral;avril;complet;25-40 ans;20-40k€;Oui;30-59 jours;Confort
+686;F;z_SUV;Private;11.0;dev_express;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+687;M;Minivan;Private;1.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+688;M;Van;Commercial;8.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+689;M;Minivan;Commercial;3.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+690;F;Pickup;Commercial;5.0;dev_premium;janvier;complet;25-40 ans;0-20k€;Oui;>90 jours;Premium
+691;M;Minivan;Private;15.0;dev_premium;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Premium
+692;M;Minivan;Private;20.0;dev_integral;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+693;F;Pickup;Commercial;8.0;dev_premium;mars;complet;<25 ans;40-60k€;Non;60–89 jours;Premium
+694;F;z_SUV;Private;8.0;dev_express;mai;complet;25-40 ans;60k€+;Non;<30 jours;Standard
+695;F;Pickup;Private;1.0;dev_express;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+696;M;Minivan;Private;12.0;dev_express;mai;complet;<25 ans;0-20k€;Non;<30 jours;Standard
+697;M;Minivan;Private;11.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+698;M;Minivan;Private;10.0;dev_express;mai;complet;25-40 ans;60k€+;Non;<30 jours;Standard
+699;M;z_SUV;Private;12.0;dev_integral;février;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+700;F;Minivan;Private;1.0;dev_express;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Standard
+701;M;z_SUV;Private;5.0;dev_integral;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Confort
+702;F;Minivan;Commercial;9.0;dev_integral;février;complet;25-40 ans;40-60k€;Non;>90 jours;Confort
+703;M;Panel Truck;Commercial;5.0;dev_vip;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Premium
+704;F;Minivan;Private;7.0;dev_premium;mai;complet;>40 ans;0-20k€;Non;<30 jours;Premium
+705;M;z_SUV;Private;5.0;dev_express;février;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+706;F;Pickup;Commercial;3.0;dev_express;janvier;complet;<25 ans;Non renseigné;Non;>90 jours;Standard
+707;F;Minivan;Commercial;1.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+708;F;Van;Private;;dev_express;mai;complet;<25 ans;60k€+;Oui;<30 jours;Standard
+709;F;Minivan;Private;1.0;dev_express;mai;complet;<25 ans;20-40k€;Non;<30 jours;Standard
+710;F;Van;Commercial;21.0;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Confort
+711;M;z_SUV;Commercial;1.0;dev_premium;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Premium
+712;F;Sports Car;Private;10.0;dev_express;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+713;M;Panel Truck;Commercial;;dev_integral;février;complet;>40 ans;Non renseigné;Non;>90 jours;Standard
+714;F;z_SUV;Commercial;7.0;dev_premium;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Premium
+715;F;Van;Private;1.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+716;M;Sports Car;Commercial;1.0;dev_integral;février;complet;>40 ans;Non renseigné;Oui;>90 jours;Confort
+717;M;Pickup;Private;17.0;dev_premium;janvier;complet;<25 ans;60k€+;Non;>90 jours;Premium
+718;M;Panel Truck;Commercial;9.0;dev_integral;février;complet;<25 ans;60k€+;Non;>90 jours;Confort
+719;F;z_SUV;Private;15.0;dev_integral;mars;complet;<25 ans;60k€+;Oui;60–89 jours;Confort
+720;M;Sports Car;Private;11.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+721;M;z_SUV;Private;9.0;dev_express;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Standard
+722;M;z_SUV;Private;5.0;dev_express;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+723;M;Minivan;Private;1.0;dev_express;mars;complet;>40 ans;Non renseigné;Oui;60–89 jours;Standard
+724;M;Minivan;Private;11.0;dev_express;février;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+725;F;Van;Commercial;11.0;dev_integral;avril;complet;<25 ans;40-60k€;Non;30-59 jours;Confort
+726;M;Van;Private;9.0;dev_integral;mai;complet;>40 ans;Non renseigné;Non;<30 jours;Standard
+727;M;z_SUV;Commercial;6.0;dev_express;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Standard
+728;F;Pickup;Commercial;17.0;dev_express;février;complet;<25 ans;40-60k€;Non;>90 jours;Standard
+729;F;Sports Car;Commercial;9.0;dev_integral;avril;complet;25-40 ans;40-60k€;Non;30-59 jours;Confort
+730;M;Pickup;Commercial;3.0;dev_integral;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Confort
+731;M;Minivan;Private;7.0;dev_integral;mars;complet;>40 ans;Non renseigné;Oui;60–89 jours;Confort
+732;M;z_SUV;Private;14.0;dev_integral;février;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+733;F;Minivan;Private;;dev_premium;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Confort
+734;F;Van;Commercial;10.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+735;M;Minivan;Private;1.0;dev_integral;mars;complet;<25 ans;Non renseigné;Non;60–89 jours;Standard
+736;M;Sports Car;Commercial;1.0;dev_integral;janvier;complet;<25 ans;40-60k€;Non;>90 jours;Standard
+737;F;z_SUV;Private;1.0;dev_express;février;complet;<25 ans;0-20k€;Oui;>90 jours;Standard
+738;M;Minivan;Commercial;6.0;dev_integral;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Confort
+739;F;Panel Truck;Commercial;1.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+740;M;z_SUV;Private;1.0;dev_premium;janvier;complet;<25 ans;40-60k€;Non;>90 jours;Confort
+741;F;z_SUV;Private;14.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+742;M;Van;Private;9.0;dev_premium;mai;complet;<25 ans;60k€+;Non;<30 jours;Premium
+743;M;z_SUV;Private;1.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Confort
+744;M;Van;Private;10.0;dev_integral;février;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+745;M;Minivan;Commercial;9.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+746;M;Minivan;Private;1.0;dev_integral;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+747;M;Minivan;Commercial;8.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+748;M;z_SUV;Commercial;12.0;dev_integral;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Confort
+749;M;Minivan;Private;14.0;dev_express;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+750;F;z_SUV;Private;5.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+751;M;z_SUV;Commercial;8.0;dev_integral;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Confort
+752;M;Pickup;Commercial;9.0;dev_integral;mai;complet;<25 ans;20-40k€;Oui;<30 jours;Confort
+753;M;z_SUV;Private;3.0;dev_express;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Standard
+754;F;Minivan;Private;20.0;dev_express;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Standard
+755;M;Panel Truck;Commercial;9.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+756;M;Pickup;Private;6.0;dev_integral;janvier;complet;25-40 ans;20-40k€;Non;>90 jours;Confort
+757;F;Pickup;Commercial;1.0;dev_express;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Standard
+758;M;Sports Car;Private;8.0;dev_premium;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Confort
+759;F;Sports Car;Private;10.0;dev_integral;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+760;M;Minivan;Private;16.0;dev_integral;janvier;complet;<25 ans;60k€+;Oui;>90 jours;Standard
+761;F;z_SUV;Private;11.0;dev_integral;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Confort
+762;F;z_SUV;Private;17.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+763;M;Pickup;Commercial;1.0;dev_express;avril;complet;<25 ans;0-20k€;Oui;30-59 jours;Standard
+764;F;Minivan;Private;8.0;dev_premium;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+765;M;Pickup;Commercial;10.0;dev_integral;janvier;complet;<25 ans;60k€+;Oui;>90 jours;Confort
+766;M;z_SUV;Private;15.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+767;F;Pickup;Private;10.0;dev_integral;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+768;M;Sports Car;Private;1.0;dev_integral;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+769;F;Pickup;Commercial;7.0;dev_integral;février;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+770;M;Minivan;Private;14.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+771;M;z_SUV;Private;5.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+772;M;Minivan;Commercial;1.0;dev_integral;mai;complet;25-40 ans;40-60k€;Non;<30 jours;Confort
+773;F;Minivan;Private;9.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+774;M;Pickup;Commercial;16.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+775;M;Van;Commercial;9.0;dev_integral;avril;complet;25-40 ans;40-60k€;Non;30-59 jours;Standard
+776;M;z_SUV;Private;16.0;dev_integral;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+777;M;Pickup;Commercial;19.0;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Standard
+778;M;Pickup;Commercial;4.0;dev_integral;février;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+779;F;Panel Truck;Commercial;17.0;dev_integral;février;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+780;M;Panel Truck;Commercial;12.0;dev_express;mai;complet;>40 ans;Non renseigné;Oui;<30 jours;Standard
+781;F;z_SUV;Commercial;1.0;dev_integral;janvier;complet;25-40 ans;60k€+;Oui;>90 jours;Standard
+782;M;Minivan;Private;16.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+783;F;z_SUV;Private;22.0;dev_integral;janvier;complet;<25 ans;60k€+;Oui;>90 jours;Standard
+784;M;Minivan;Private;12.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+785;M;Minivan;Private;15.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+786;M;Pickup;Commercial;11.0;dev_integral;janvier;complet;>40 ans;0-20k€;Non;>90 jours;Confort
+787;F;Minivan;Commercial;1.0;dev_premium;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+788;M;Pickup;Private;15.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+789;M;Panel Truck;Commercial;16.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+790;F;Minivan;Private;1.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+791;F;z_SUV;Private;1.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Confort
+792;M;Pickup;Commercial;17.0;dev_integral;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+793;M;Van;Commercial;13.0;dev_integral;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Confort
+794;M;z_SUV;Commercial;7.0;dev_express;février;complet;>40 ans;Non renseigné;Non;>90 jours;Standard
+795;F;z_SUV;Private;10.0;dev_premium;février;complet;>40 ans;0-20k€;Oui;>90 jours;Premium
+796;M;Sports Car;Commercial;1.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+797;M;Minivan;Private;12.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+798;F;z_SUV;Private;9.0;dev_integral;avril;complet;25-40 ans;0-20k€;Non;30-59 jours;Confort
+799;F;Minivan;Private;10.0;dev_integral;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Standard
+800;M;Pickup;Private;13.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+801;F;Minivan;Private;9.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+802;F;Minivan;Private;1.0;dev_integral;février;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+803;M;Sports Car;Commercial;8.0;dev_integral;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+804;F;Van;Private;1.0;dev_express;mars;complet;25-40 ans;Non renseigné;Non;60–89 jours;Standard
+805;F;Pickup;Private;1.0;dev_integral;mars;complet;<25 ans;0-20k€;Non;60–89 jours;Confort
+806;M;z_SUV;Commercial;10.0;dev_premium;février;complet;<25 ans;Non renseigné;Oui;>90 jours;Premium
+807;F;z_SUV;Private;16.0;dev_integral;janvier;complet;>40 ans;Non renseigné;Non;>90 jours;Confort
+808;M;Panel Truck;Commercial;11.0;dev_express;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+809;M;z_SUV;Private;18.0;dev_express;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Standard
+810;M;z_SUV;Commercial;5.0;dev_integral;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+811;M;Panel Truck;Commercial;1.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+812;F;Panel Truck;Commercial;15.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+813;F;Minivan;Private;3.0;dev_integral;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Confort
+814;M;Pickup;Private;7.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Confort
+815;M;z_SUV;Private;5.0;dev_express;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+816;F;Minivan;Private;22.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+817;M;Pickup;Commercial;21.0;dev_premium;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Premium
+818;M;Van;Commercial;14.0;dev_premium;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Premium
+819;F;Pickup;Private;1.0;dev_integral;février;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+820;M;Minivan;Commercial;10.0;dev_integral;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Confort
+821;F;Van;Private;11.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+822;F;z_SUV;Private;1.0;dev_express;janvier;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+823;F;z_SUV;Commercial;7.0;dev_express;janvier;complet;<25 ans;0-20k€;Oui;>90 jours;Standard
+824;M;Minivan;Private;15.0;dev_integral;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+825;M;z_SUV;Commercial;1.0;dev_integral;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Confort
+826;M;z_SUV;Private;17.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+827;F;Van;Commercial;8.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+828;F;Minivan;Private;15.0;dev_express;février;complet;<25 ans;Non renseigné;Non;>90 jours;Standard
+829;F;Minivan;Private;1.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+830;M;Van;Commercial;10.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+831;F;Minivan;Private;1.0;dev_integral;février;complet;<25 ans;20-40k€;Non;>90 jours;Standard
+832;M;z_SUV;Private;7.0;dev_integral;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Standard
+833;F;Pickup;Commercial;;dev_express;mai;complet;25-40 ans;20-40k€;Non;<30 jours;Standard
+834;F;z_SUV;Private;1.0;dev_integral;janvier;complet;<25 ans;0-20k€;Non;>90 jours;Confort
+835;M;z_SUV;Private;7.0;dev_express;mai;complet;25-40 ans;Non renseigné;Non;<30 jours;Standard
+836;M;z_SUV;Private;1.0;dev_premium;mai;complet;<25 ans;0-20k€;Non;<30 jours;Premium
+837;F;Van;Commercial;17.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+838;M;z_SUV;Private;18.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+839;M;Pickup;Private;9.0;dev_premium;février;complet;<25 ans;60k€+;Non;>90 jours;Premium
+840;F;Van;Commercial;1.0;dev_premium;mai;complet;>40 ans;60k€+;Non;<30 jours;Premium
+841;F;z_SUV;Private;1.0;dev_vip;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Premium
+842;F;Panel Truck;Commercial;10.0;dev_express;avril;complet;<25 ans;60k€+;Non;30-59 jours;Standard
+843;M;Minivan;Private;4.0;dev_integral;mai;complet;<25 ans;20-40k€;Non;<30 jours;Confort
+844;F;Panel Truck;Commercial;6.0;dev_integral;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+845;F;Pickup;Commercial;7.0;dev_integral;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Standard
+846;F;Panel Truck;Commercial;12.0;dev_integral;mai;complet;25-40 ans;60k€+;Non;<30 jours;Confort
+847;M;Van;Private;6.0;dev_express;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+848;F;z_SUV;Private;13.0;dev_premium;mai;complet;>40 ans;60k€+;Oui;<30 jours;Premium
+849;M;Pickup;Commercial;10.0;dev_premium;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Premium
+850;F;z_SUV;Private;13.0;dev_premium;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Premium
+851;F;Minivan;Private;17.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+852;F;Pickup;Commercial;9.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+853;F;z_SUV;Commercial;9.0;dev_vip;mars;complet;<25 ans;Non renseigné;Non;60–89 jours;Premium
+854;M;Sports Car;Private;12.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+855;F;Sports Car;Private;6.0;dev_integral;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Standard
+856;F;z_SUV;Private;;dev_premium;février;complet;>40 ans;40-60k€;Non;>90 jours;Premium
+857;M;Panel Truck;Commercial;8.0;dev_integral;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Confort
+858;M;z_SUV;Private;6.0;dev_premium;janvier;complet;25-40 ans;60k€+;Oui;>90 jours;Confort
+859;F;Panel Truck;Commercial;12.0;dev_express;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+860;M;Van;Commercial;13.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+861;F;z_SUV;Private;1.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Confort
+862;F;Minivan;Private;15.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+863;M;z_SUV;Private;5.0;dev_express;mai;complet;<25 ans;0-20k€;Oui;<30 jours;Standard
+864;M;Pickup;Private;1.0;dev_express;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+865;F;Minivan;Private;16.0;dev_premium;février;complet;<25 ans;60k€+;Non;>90 jours;Premium
+866;M;Pickup;Private;9.0;dev_integral;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+867;M;z_SUV;Private;8.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+868;F;z_SUV;Private;;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+869;M;Van;Commercial;7.0;dev_integral;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+870;M;Pickup;Commercial;7.0;dev_integral;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Confort
+871;F;Minivan;Private;10.0;dev_integral;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Confort
+872;M;z_SUV;Commercial;7.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Standard
+873;M;z_SUV;Commercial;13.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+874;F;z_SUV;Commercial;12.0;dev_express;février;complet;<25 ans;40-60k€;Non;>90 jours;Standard
+875;M;Pickup;Commercial;9.0;dev_premium;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Confort
+876;F;Minivan;Private;7.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+877;M;Minivan;Private;22.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+878;M;Van;Private;1.0;dev_integral;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+879;F;Sports Car;Private;;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+880;M;Pickup;Commercial;1.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+881;M;Sports Car;Private;1.0;dev_express;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Standard
+882;M;Pickup;Private;9.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+883;M;Minivan;Commercial;10.0;dev_express;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+884;F;Minivan;Private;9.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+885;F;Minivan;Private;11.0;dev_express;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+886;F;z_SUV;Commercial;1.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+887;F;Pickup;Commercial;15.0;dev_express;avril;complet;>40 ans;Non renseigné;Non;30-59 jours;Standard
+888;M;Pickup;Commercial;7.0;dev_premium;février;complet;>40 ans;0-20k€;Non;>90 jours;Premium
+889;F;Minivan;Private;1.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+890;M;Pickup;Private;8.0;dev_express;février;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+891;M;Pickup;Private;9.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+892;F;z_SUV;Private;7.0;dev_express;janvier;complet;25-40 ans;Non renseigné;Non;>90 jours;Standard
+893;M;Minivan;Private;14.0;dev_express;mai;complet;>40 ans;40-60k€;Non;<30 jours;Standard
+894;M;z_SUV;Commercial;1.0;dev_express;mars;complet;25-40 ans;20-40k€;Non;60–89 jours;Standard
+895;F;Panel Truck;Commercial;15.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+896;F;Minivan;Private;20.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+897;F;Panel Truck;Commercial;13.0;dev_premium;février;complet;<25 ans;60k€+;Oui;>90 jours;Premium
+898;M;Sports Car;Private;9.0;dev_integral;janvier;complet;>40 ans;40-60k€;Oui;>90 jours;Confort
+899;F;Minivan;Private;19.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+900;M;Sports Car;Private;13.0;dev_premium;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Premium
+901;M;Sports Car;Commercial;1.0;dev_integral;janvier;complet;25-40 ans;Non renseigné;Non;>90 jours;Standard
+902;F;Sports Car;Private;0.0;dev_express;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Standard
+903;F;z_SUV;Private;1.0;dev_express;mai;complet;25-40 ans;60k€+;Non;<30 jours;Standard
+904;F;Minivan;Commercial;10.0;dev_integral;avril;complet;<25 ans;40-60k€;Oui;30-59 jours;Standard
+905;M;z_SUV;Private;1.0;dev_express;février;complet;25-40 ans;60k€+;Non;>90 jours;Standard
+906;F;Minivan;Private;1.0;dev_vip;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Premium
+907;M;Minivan;Private;11.0;dev_express;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+908;F;Pickup;Private;6.0;dev_integral;février;complet;>40 ans;0-20k€;Oui;>90 jours;Confort
+909;M;z_SUV;Commercial;8.0;dev_express;février;complet;25-40 ans;0-20k€;Oui;>90 jours;Standard
+910;F;Van;Commercial;;dev_integral;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+911;F;Pickup;Private;11.0;dev_express;mai;complet;25-40 ans;60k€+;Oui;<30 jours;Standard
+912;M;Pickup;Commercial;1.0;dev_express;février;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+913;F;Pickup;Commercial;1.0;dev_premium;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Premium
+914;F;z_SUV;Commercial;8.0;dev_integral;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Confort
+915;F;Sports Car;Private;17.0;dev_express;mai;complet;25-40 ans;60k€+;Non;<30 jours;Standard
+916;M;z_SUV;Commercial;8.0;dev_express;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+917;F;Pickup;Commercial;1.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+918;F;Sports Car;Commercial;6.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+919;M;Minivan;Private;9.0;dev_integral;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+920;F;Sports Car;Private;14.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+921;M;z_SUV;Commercial;11.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+922;M;z_SUV;Private;6.0;dev_integral;février;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+923;F;Minivan;Private;;dev_express;mai;complet;>40 ans;0-20k€;Oui;<30 jours;Standard
+924;F;Panel Truck;Commercial;7.0;dev_premium;février;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+925;F;Minivan;Private;6.0;dev_express;février;complet;<25 ans;20-40k€;Oui;>90 jours;Standard
+926;M;z_SUV;Private;1.0;dev_premium;mars;complet;<25 ans;60k€+;Oui;60–89 jours;Premium
+927;F;z_SUV;Commercial;7.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+928;F;Sports Car;Private;4.0;dev_integral;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Confort
+929;M;z_SUV;Commercial;10.0;dev_integral;avril;complet;<25 ans;0-20k€;Oui;30-59 jours;Confort
+930;M;Minivan;Commercial;7.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+931;M;Van;Commercial;12.0;dev_premium;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Confort
+932;M;Panel Truck;Commercial;1.0;dev_express;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Standard
+933;M;Pickup;Commercial;10.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+934;F;Panel Truck;Commercial;6.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+935;F;Minivan;Private;;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+936;M;Minivan;Commercial;1.0;dev_express;février;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+937;M;Minivan;Commercial;10.0;dev_premium;février;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+938;F;Minivan;Private;;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+939;M;Minivan;Private;;dev_integral;mai;complet;25-40 ans;20-40k€;Oui;<30 jours;Standard
+940;M;Van;Private;12.0;dev_premium;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Premium
+941;M;z_SUV;Commercial;1.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+942;F;Panel Truck;Commercial;1.0;dev_premium;février;complet;<25 ans;60k€+;Oui;>90 jours;Premium
+943;M;z_SUV;Private;8.0;dev_express;janvier;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+944;F;Pickup;Commercial;;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+945;F;Sports Car;Private;8.0;dev_express;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Standard
+946;F;z_SUV;Private;16.0;dev_integral;janvier;complet;<25 ans;60k€+;Non;>90 jours;Confort
+947;F;Minivan;Private;8.0;dev_express;mars;complet;<25 ans;Non renseigné;Oui;60–89 jours;Standard
+948;M;Minivan;Private;10.0;dev_premium;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Premium
+949;F;Panel Truck;Commercial;13.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+950;M;Minivan;Private;19.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+951;M;z_SUV;Private;11.0;dev_premium;mai;complet;>40 ans;60k€+;Oui;<30 jours;Premium
+952;F;z_SUV;Private;19.0;dev_express;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Standard
+953;M;Sports Car;Private;5.0;dev_integral;mai;complet;25-40 ans;0-20k€;Non;<30 jours;Confort
+954;M;Minivan;Private;19.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+955;M;z_SUV;Private;8.0;dev_express;janvier;complet;<25 ans;0-20k€;Oui;>90 jours;Standard
+956;M;z_SUV;Private;11.0;dev_vip;avril;complet;25-40 ans;0-20k€;Oui;30-59 jours;Premium
+957;F;z_SUV;Private;12.0;dev_integral;avril;complet;>40 ans;Non renseigné;Non;30-59 jours;Confort
+958;M;Pickup;Commercial;7.0;dev_premium;février;complet;>40 ans;20-40k€;Oui;>90 jours;Confort
+959;F;Panel Truck;Commercial;15.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+960;M;Sports Car;Private;1.0;dev_premium;avril;complet;<25 ans;0-20k€;Oui;30-59 jours;Premium
+961;M;Minivan;Commercial;8.0;dev_premium;février;complet;>40 ans;0-20k€;Non;>90 jours;Premium
+962;F;Pickup;Commercial;1.0;dev_premium;février;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+963;M;z_SUV;Private;15.0;dev_premium;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+964;F;Minivan;Private;20.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+965;F;Minivan;Private;;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+966;F;Panel Truck;Commercial;12.0;dev_express;mai;complet;<25 ans;60k€+;Non;<30 jours;Standard
+967;M;z_SUV;Private;16.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+968;M;Sports Car;Private;;dev_integral;avril;complet;<25 ans;60k€+;Non;30-59 jours;Confort
+969;M;Sports Car;Private;1.0;dev_integral;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Standard
+970;F;Minivan;Private;22.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+971;M;Minivan;Private;1.0;dev_premium;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Premium
+972;F;z_SUV;Private;15.0;dev_premium;février;complet;>40 ans;40-60k€;Non;>90 jours;Premium
+973;M;z_SUV;Private;13.0;dev_express;janvier;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+974;F;z_SUV;Private;1.0;dev_express;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Standard
+975;F;Van;Commercial;18.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+976;M;Pickup;Private;1.0;dev_express;avril;complet;<25 ans;20-40k€;Oui;30-59 jours;Standard
+977;F;Minivan;Private;17.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+978;F;Minivan;Private;1.0;dev_integral;mai;complet;>40 ans;20-40k€;Non;<30 jours;Confort
+979;F;Pickup;Private;1.0;dev_integral;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Confort
+980;F;Minivan;Private;7.0;dev_integral;avril;complet;25-40 ans;20-40k€;Non;30-59 jours;Confort
+981;F;Minivan;Private;13.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+982;M;Minivan;Private;16.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+983;F;Sports Car;Private;10.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+984;F;Pickup;Private;21.0;dev_integral;février;complet;<25 ans;60k€+;Oui;>90 jours;Confort
+985;M;Panel Truck;Commercial;23.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+986;F;Panel Truck;Commercial;8.0;dev_premium;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Confort
+987;M;Pickup;Commercial;1.0;dev_integral;avril;complet;<25 ans;60k€+;Non;30-59 jours;Confort
+988;M;Panel Truck;Commercial;1.0;dev_express;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+989;M;Minivan;Private;17.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+990;F;Pickup;Commercial;1.0;dev_premium;mai;complet;25-40 ans;0-20k€;Oui;<30 jours;Premium
+991;M;Sports Car;Commercial;9.0;dev_integral;janvier;complet;<25 ans;20-40k€;Non;>90 jours;Confort
+992;F;Pickup;Private;11.0;dev_integral;janvier;complet;<25 ans;20-40k€;Non;>90 jours;Standard
+993;F;Minivan;Private;1.0;dev_integral;mars;complet;>40 ans;Non renseigné;Non;60–89 jours;Standard
+994;F;Sports Car;Commercial;1.0;dev_integral;janvier;complet;<25 ans;40-60k€;Non;>90 jours;Confort
+995;M;Sports Car;Private;1.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+996;F;Sports Car;Private;15.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+997;M;z_SUV;Private;8.0;dev_integral;avril;complet;25-40 ans;Non renseigné;Oui;30-59 jours;Confort
+998;M;Van;Commercial;1.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+999;M;Pickup;Commercial;16.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+1000;M;z_SUV;Private;11.0;dev_express;février;complet;<25 ans;40-60k€;Non;>90 jours;Standard
+1001;F;z_SUV;Private;4.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Confort
+1002;F;z_SUV;Private;6.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+1003;F;z_SUV;Private;5.0;dev_integral;avril;complet;>40 ans;Non renseigné;Non;30-59 jours;Confort
+1004;M;Minivan;Private;14.0;dev_integral;mai;complet;25-40 ans;40-60k€;Non;<30 jours;Confort
+1005;F;z_SUV;Private;;dev_integral;février;complet;25-40 ans;0-20k€;Non;>90 jours;Confort
+1006;F;Minivan;Private;4.0;dev_express;mars;complet;<25 ans;0-20k€;Non;60–89 jours;Standard
+1007;M;z_SUV;Private;1.0;dev_express;mai;complet;>40 ans;0-20k€;Non;<30 jours;Standard
+1008;F;z_SUV;Private;1.0;dev_express;février;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+1009;M;Panel Truck;Commercial;12.0;dev_express;février;complet;>40 ans;40-60k€;Oui;>90 jours;Standard
+1010;F;z_SUV;Private;12.0;dev_integral;avril;complet;>40 ans;20-40k€;Oui;30-59 jours;Standard
+1011;F;z_SUV;Private;10.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+1012;M;z_SUV;Private;1.0;dev_express;mars;complet;25-40 ans;40-60k€;Oui;60–89 jours;Standard
+1013;F;Pickup;Private;1.0;dev_express;mars;complet;>40 ans;20-40k€;Oui;60–89 jours;Standard
+1014;M;Pickup;Commercial;1.0;dev_express;mars;complet;<25 ans;20-40k€;Non;60–89 jours;Standard
+1015;M;Minivan;Private;1.0;dev_express;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+1016;M;Minivan;Private;9.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+1017;M;Minivan;Private;18.0;dev_express;mars;complet;>40 ans;60k€+;Non;60–89 jours;Standard
+1018;M;Minivan;Private;14.0;dev_premium;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Premium
+1019;M;Minivan;Commercial;10.0;dev_express;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Standard
+1020;F;Minivan;Private;18.0;dev_premium;janvier;complet;<25 ans;40-60k€;Non;>90 jours;Confort
+1021;F;Sports Car;Private;7.0;dev_premium;mai;complet;>40 ans;0-20k€;Non;<30 jours;Premium
+1022;F;Sports Car;Private;18.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+1023;M;Minivan;Private;1.0;dev_express;mai;complet;<25 ans;20-40k€;Non;<30 jours;Standard
+1024;M;z_SUV;Private;;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+1025;M;Sports Car;Private;15.0;dev_premium;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Premium
+1026;F;z_SUV;Private;15.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+1027;F;z_SUV;Private;6.0;dev_express;mai;complet;25-40 ans;0-20k€;Oui;<30 jours;Standard
+1028;M;z_SUV;Commercial;11.0;dev_integral;janvier;complet;<25 ans;0-20k€;Non;>90 jours;Confort
+1029;M;z_SUV;Private;6.0;dev_integral;mai;complet;25-40 ans;20-40k€;Oui;<30 jours;Standard
+1030;M;Van;Private;1.0;dev_express;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+1031;F;Pickup;Commercial;11.0;dev_vip;février;complet;>40 ans;40-60k€;Oui;>90 jours;Premium
+1032;M;z_SUV;Private;6.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+1033;F;Minivan;Private;12.0;dev_integral;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Confort
+1034;M;Sports Car;Private;;dev_express;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Standard
+1035;M;Pickup;Private;1.0;dev_premium;mai;complet;>40 ans;Non renseigné;Oui;<30 jours;Premium
+1036;M;Van;Private;14.0;dev_express;avril;complet;>40 ans;Non renseigné;Non;30-59 jours;Standard
+1037;F;Pickup;Private;16.0;dev_integral;mars;complet;25-40 ans;0-20k€;Non;60–89 jours;Confort
+1038;F;Minivan;Commercial;;dev_integral;mai;complet;25-40 ans;20-40k€;Oui;<30 jours;Confort
+1039;M;Pickup;Commercial;8.0;dev_integral;janvier;complet;25-40 ans;Non renseigné;Oui;>90 jours;Standard
+1040;M;z_SUV;Private;1.0;dev_integral;avril;complet;>40 ans;0-20k€;Non;30-59 jours;Confort
+1041;F;Minivan;Private;1.0;dev_integral;avril;complet;25-40 ans;20-40k€;Oui;30-59 jours;Standard
+1042;M;z_SUV;Private;15.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+1043;F;z_SUV;Private;1.0;dev_integral;janvier;complet;<25 ans;0-20k€;Non;>90 jours;Standard
+1044;M;Panel Truck;Commercial;15.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+1045;M;Minivan;Private;14.0;dev_integral;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Standard
+1046;M;Sports Car;Commercial;10.0;dev_integral;février;complet;>40 ans;0-20k€;Non;>90 jours;Standard
+1047;M;Sports Car;Private;1.0;dev_express;février;complet;25-40 ans;0-20k€;Non;>90 jours;Standard
+1048;F;Panel Truck;Commercial;9.0;dev_integral;mai;complet;25-40 ans;0-20k€;Non;<30 jours;Standard
+1049;M;Minivan;Private;8.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Confort
+1050;F;z_SUV;Private;9.0;dev_integral;mai;complet;25-40 ans;20-40k€;Non;<30 jours;Confort
+1051;M;Minivan;Private;6.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+1052;M;z_SUV;Commercial;8.0;dev_integral;janvier;complet;>40 ans;40-60k€;Non;>90 jours;Confort
+1053;M;Minivan;Private;1.0;dev_integral;mai;complet;<25 ans;0-20k€;Oui;<30 jours;Confort
+1054;M;Minivan;Commercial;8.0;dev_integral;mai;complet;25-40 ans;Non renseigné;Non;<30 jours;Confort
+1055;F;Minivan;Private;12.0;dev_premium;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Premium
+1056;M;Panel Truck;Commercial;1.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+1057;M;Pickup;Private;17.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+1058;F;Minivan;Commercial;1.0;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Confort
+1059;F;Minivan;Commercial;5.0;dev_premium;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Premium
+1060;F;Pickup;Commercial;1.0;dev_integral;avril;complet;<25 ans;40-60k€;Non;30-59 jours;Confort
+1061;F;Panel Truck;Commercial;15.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+1062;M;Panel Truck;Commercial;15.0;dev_express;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+1063;F;Sports Car;Private;12.0;dev_express;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Standard
+1064;F;z_SUV;Private;;dev_express;mars;complet;<25 ans;60k€+;Non;60–89 jours;Standard
+1065;M;z_SUV;Private;1.0;dev_express;avril;complet;25-40 ans;0-20k€;Non;30-59 jours;Standard
+1066;F;Van;Private;12.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+1067;M;Minivan;Private;17.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+1068;F;Sports Car;Private;1.0;dev_integral;mars;complet;>40 ans;40-60k€;Oui;60–89 jours;Standard
+1069;F;Van;Commercial;1.0;dev_express;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+1070;F;Van;Private;12.0;dev_integral;janvier;complet;<25 ans;60k€+;Non;>90 jours;Confort
+1071;F;Pickup;Commercial;1.0;dev_express;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+1072;F;Van;Commercial;1.0;dev_express;avril;complet;>40 ans;40-60k€;Oui;30-59 jours;Standard
+1073;M;Van;Commercial;11.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+1074;F;Panel Truck;Commercial;19.0;dev_integral;février;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+1075;F;Pickup;Commercial;12.0;dev_integral;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Confort
+1076;F;Van;Private;;dev_express;février;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+1077;F;Pickup;Private;7.0;dev_express;février;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+1078;F;z_SUV;Private;8.0;dev_integral;mars;complet;>40 ans;40-60k€;Non;60–89 jours;Confort
+1079;F;Panel Truck;Commercial;1.0;dev_express;avril;complet;>40 ans;20-40k€;Non;30-59 jours;Standard
+1080;M;Minivan;Private;10.0;dev_express;avril;complet;<25 ans;60k€+;Non;30-59 jours;Standard
+1081;F;Panel Truck;Commercial;1.0;dev_integral;janvier;complet;25-40 ans;60k€+;Non;>90 jours;Confort
+1082;M;Minivan;Private;15.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+1083;M;Sports Car;Private;17.0;dev_express;mars;complet;25-40 ans;60k€+;Non;60–89 jours;Standard
+1084;M;z_SUV;Private;18.0;dev_express;février;complet;<25 ans;40-60k€;Non;>90 jours;Standard
+1085;F;Minivan;Commercial;1.0;dev_integral;avril;complet;<25 ans;60k€+;Oui;30-59 jours;Confort
+1086;F;Sports Car;Private;4.0;dev_express;avril;complet;>40 ans;0-20k€;Oui;30-59 jours;Standard
+1087;F;Minivan;Private;1.0;dev_express;février;complet;25-40 ans;40-60k€;Oui;>90 jours;Standard
+1088;M;Van;Commercial;8.0;dev_express;janvier;complet;>40 ans;Non renseigné;Non;>90 jours;Standard
+1089;F;z_SUV;Private;14.0;dev_integral;mars;complet;<25 ans;40-60k€;Non;60–89 jours;Confort
+1090;M;Van;Commercial;1.0;dev_express;janvier;complet;>40 ans;60k€+;Oui;>90 jours;Standard
+1091;M;Pickup;Private;1.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+1092;F;Sports Car;Private;6.0;dev_integral;février;complet;>40 ans;20-40k€;Oui;>90 jours;Standard
+1093;F;Pickup;Commercial;6.0;dev_integral;avril;complet;>40 ans;60k€+;Oui;30-59 jours;Confort
+1094;F;Panel Truck;Commercial;16.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+1095;F;Pickup;Commercial;19.0;dev_integral;mars;complet;<25 ans;0-20k€;Oui;60–89 jours;Confort
+1096;F;Minivan;Private;13.0;dev_premium;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Confort
+1097;F;Minivan;Private;8.0;dev_express;janvier;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+1098;F;Panel Truck;Commercial;;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Standard
+1099;M;Minivan;Commercial;12.0;dev_express;janvier;complet;<25 ans;60k€+;Non;>90 jours;Standard
+1100;M;z_SUV;Commercial;9.0;dev_express;février;complet;>40 ans;Non renseigné;Oui;>90 jours;Standard
+1101;M;Van;Private;13.0;dev_vip;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Premium
+1102;F;Minivan;Private;9.0;dev_integral;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Confort
+1103;M;Minivan;Private;8.0;dev_express;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Standard
+1104;F;z_SUV;Commercial;9.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+1105;M;Minivan;Private;1.0;dev_express;avril;complet;<25 ans;60k€+;Non;30-59 jours;Standard
+1106;M;Panel Truck;Commercial;16.0;dev_express;janvier;complet;<25 ans;60k€+;Oui;>90 jours;Standard
+1107;M;Panel Truck;Commercial;12.0;dev_premium;mars;complet;<25 ans;60k€+;Non;60–89 jours;Confort
+1108;M;z_SUV;Private;10.0;dev_integral;janvier;complet;<25 ans;40-60k€;Oui;>90 jours;Standard
+1109;F;Van;Commercial;8.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+1110;M;z_SUV;Private;14.0;dev_premium;mars;complet;25-40 ans;60k€+;Oui;60–89 jours;Confort
+1111;M;Pickup;Commercial;1.0;dev_integral;mars;complet;>40 ans;0-20k€;Non;60–89 jours;Confort
+1112;M;Sports Car;Private;21.0;dev_express;février;complet;25-40 ans;40-60k€;Non;>90 jours;Standard
+1113;M;Sports Car;Private;1.0;dev_integral;mai;complet;>40 ans;0-20k€;Non;<30 jours;Confort
+1114;M;Van;Private;4.0;dev_express;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Standard
+1115;F;Minivan;Private;16.0;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Confort
+1116;F;Pickup;Private;10.0;dev_integral;avril;complet;>40 ans;40-60k€;Non;30-59 jours;Confort
+1117;M;Pickup;Private;7.0;dev_express;janvier;complet;<25 ans;20-40k€;Oui;>90 jours;Standard
+1118;F;Pickup;Commercial;1.0;dev_integral;mars;complet;25-40 ans;40-60k€;Non;60–89 jours;Confort
+1119;M;Minivan;Private;9.0;dev_express;février;complet;>40 ans;40-60k€;Non;>90 jours;Standard
+1120;F;Minivan;Private;12.0;dev_integral;avril;complet;25-40 ans;60k€+;Non;30-59 jours;Confort
+1121;M;Sports Car;Private;9.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+1122;F;Panel Truck;Commercial;15.0;dev_integral;mars;complet;>40 ans;60k€+;Non;60–89 jours;Confort
+1123;F;Panel Truck;Commercial;12.0;dev_premium;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+1124;M;Minivan;Commercial;4.0;dev_integral;janvier;complet;<25 ans;20-40k€;Oui;>90 jours;Confort
+1125;F;Pickup;Commercial;11.0;dev_express;mars;complet;<25 ans;60k€+;Oui;60–89 jours;Standard
+1126;M;Pickup;Private;12.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Confort
+1127;M;Minivan;Commercial;11.0;dev_express;mars;complet;<25 ans;0-20k€;Non;60–89 jours;Standard
+1128;F;z_SUV;Private;8.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+1129;M;z_SUV;Private;7.0;dev_integral;mars;complet;<25 ans;60k€+;Non;60–89 jours;Confort
+1130;F;z_SUV;Private;4.0;dev_integral;mai;complet;<25 ans;60k€+;Non;<30 jours;Confort
+1131;F;z_SUV;Private;12.0;dev_integral;avril;complet;>40 ans;60k€+;Non;30-59 jours;Confort
+1132;F;Minivan;Private;1.0;dev_express;avril;complet;25-40 ans;20-40k€;Non;30-59 jours;Standard
+1133;F;Minivan;Private;8.0;dev_express;janvier;complet;25-40 ans;60k€+;Oui;>90 jours;Standard
+1134;F;z_SUV;Private;10.0;dev_integral;février;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+1135;M;z_SUV;Private;7.0;dev_integral;mars;complet;25-40 ans;40-60k€;Oui;60–89 jours;Standard
+1136;F;z_SUV;Private;12.0;dev_integral;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Confort
+1137;F;z_SUV;Private;;dev_express;mai;complet;>40 ans;20-40k€;Non;<30 jours;Standard
+1138;F;Sports Car;Private;2.0;dev_integral;février;complet;<25 ans;20-40k€;Non;>90 jours;Confort
+1139;F;z_SUV;Private;10.0;dev_express;mars;complet;>40 ans;20-40k€;Non;60–89 jours;Standard
+1140;M;Pickup;Private;1.0;dev_integral;avril;complet;<25 ans;20-40k€;Non;30-59 jours;Confort
+1141;M;Sports Car;Private;12.0;dev_integral;février;complet;>40 ans;0-20k€;Oui;>90 jours;Standard
+1142;F;Pickup;Commercial;7.0;dev_express;février;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+1143;F;Pickup;Private;22.0;dev_integral;mai;complet;>40 ans;60k€+;Non;<30 jours;Confort
+1144;F;Panel Truck;Commercial;;dev_integral;mai;complet;>40 ans;60k€+;Oui;<30 jours;Standard
+1145;M;Sports Car;Private;7.0;dev_express;mars;complet;>40 ans;0-20k€;Oui;60–89 jours;Standard
+1146;M;Minivan;Private;21.0;dev_express;janvier;complet;>40 ans;60k€+;Non;>90 jours;Standard
+1147;M;z_SUV;Private;1.0;dev_integral;mars;complet;>40 ans;60k€+;Oui;60–89 jours;Standard
+1148;F;z_SUV;Private;6.0;dev_express;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Standard
+1149;F;Minivan;Private;7.0;dev_premium;mai;complet;<25 ans;40-60k€;Non;<30 jours;Premium
+1150;M;Minivan;Commercial;10.0;dev_express;avril;complet;>40 ans;60k€+;Non;30-59 jours;Standard
+1151;M;Pickup;Commercial;9.0;dev_express;mai;complet;>40 ans;20-40k€;Oui;<30 jours;Standard
+1152;M;Panel Truck;Commercial;20.0;dev_integral;février;complet;>40 ans;60k€+;Non;>90 jours;Confort
+1153;M;z_SUV;Private;8.0;dev_integral;janvier;complet;>40 ans;20-40k€;Non;>90 jours;Confort
+1154;F;Minivan;Private;20.0;dev_express;mai;complet;>40 ans;60k€+;Non;<30 jours;Standard
+1155;M;Minivan;Private;1.0;dev_express;mai;complet;<25 ans;40-60k€;Non;<30 jours;Standard
+1156;F;Minivan;Private;1.0;dev_integral;janvier;complet;>40 ans;60k€+;Non;>90 jours;Confort
+1157;F;Van;Commercial;4.0;dev_premium;janvier;complet;>40 ans;60k€+;Non;>90 jours;Premium
+1158;M;Minivan;Private;1.0;dev_integral;mai;complet;>40 ans;40-60k€;Non;<30 jours;Confort
