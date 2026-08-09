@@ -38,5 +38,5 @@ Cette section regroupe les projets menés illustrant un spectre complet de comp�
 ---
 
 ## 📬 Me Contacter
-* **LinkedIn:** [Votre lien LinkedIn]
-* **Email:** [Votre Email]
+* **LinkedIn:** https://www.linkedin.com/in/adam--gh
+* **Email:** daxam.gh@gmail.com
