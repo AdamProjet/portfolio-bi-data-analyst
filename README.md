@@ -1,6 +1,7 @@
 # 📊 Portfolio Professionnel - Consultant Business Intelligence & Data Analyst
 
 **Bonjour et bienvenue sur mon portfolio !** Je suis Consultant Business Intelligence & Data Analyst. 
+
 **Mon objectif :** Accompagner les décideurs dans la transformation de leurs données complexes en stratégies d'entreprise actionnables, fiables et pérennes.
 
 En tant que consultant, l'adaptation continue aux nouvelles solutions est primordiale. C'est pourquoi je maintiens une veille technologique active sur l'évolution des outils BI, l'Intelligence Artificielle appliquée à la Data, et le Green IT.
