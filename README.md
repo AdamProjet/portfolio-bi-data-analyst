@@ -28,6 +28,8 @@ Cette section regroupe les projets menés illustrant un spectre complet de comp�
 * **[L'Optimisation des Ventes et de la Marge - "BottleNeck"](./01_Optimisation_Ventes_Marge_BottleNeck)** : Le besoin métier était de piloter la rentabilité et d'optimiser les stocks. J'ai créé un tableau de bord stratégique et construit des indicateurs de ROI (Marge générée / Coût des promos) à partir des ventes historiques.
 * **[Modélisation BI & NLP pour la Direction - "Sanitoral"](./03_Modelisation_BI_NLP_Sanitoral)** : J'ai créé une modélisation en étoile sous Power BI via la génération de clés composites (Power Query). Grâce au paramétrage avancé de la fonction "Q&A" (Traitement du Langage Naturel), les équipes métiers ont désormais une autonomie à 100% pour interroger les données budgétaires.
 
+* Voir Rapport BI directement ici :
+
 ### 3. Requêtage SQL & Bases de données
 * **[Modélisation SQL & Analyse d’Assurance Habitation](./07_Analyse_SQL_Assurance_Habitation)** : J'ai rédigé 12 requêtes SQL combinant filtres, tris, agrégations (COUNT, AVG) et jointures géographiques. Cela a permis la mise en évidence d'incohérences de saisie et la production de KPIs précis sur la sinistralité par région.
 * **[Analyse SQL de la Satisfaction Client en Magasin](./08_Analyse_SQL_Satisfaction_Client)** : J'ai mené un audit et un enrichissement du modèle relationnel pour lier les retours aux données démographiques via SQL. L'objectif était de suivre la satisfaction client, de calculer le NPS, et d'identifier clairement les zones géographiques sous-performantes.
